@@ -1,5 +1,7 @@
 # DataCNIL
-développée pour répondre aux besoins des experts en protection des données en matière de recherche et de filtrage des délibérations de la CNIL
+développée pour répondre aux besoins des experts en protection des données en matière de recherche et de filtrage des délibérations de la CNIL.
+
+La plateforme est hébergée sur <a href="http://i3l.univ-grenoble-alpes.fr/~perlicv/">le serveur i3l.</a>
 
 ## Documentation succincte Data CNIL :
 
