@@ -3,6 +3,8 @@ développée pour répondre aux besoins des experts en protection des données e
 
 La plateforme est hébergée sur <a href="http://i3l.univ-grenoble-alpes.fr/~perlicv/">le serveur i3l.</a>
 
+Le rapport du projet est <a href="/Rapport%20du%20projet.pdf">ici.</a>
+
 ## Documentation succincte Data CNIL :
 
 - les fichiers XML de délibérations de la CNIL sont stockés en vrac dans le dossier dataxml
