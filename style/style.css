@@ -1,0 +1,17 @@
+body{
+    /*background-image: url("../images/background.jpg");*/
+
+    background-color : #ff5151;
+    color : white;
+    padding-left : 10%;
+    padding-right : 10%;
+
+    /* background-color : antiquewhite;
+    color : black;
+    padding-left : 10%;
+    padding-right : 10%; */
+}
+a:link, a:visited, a:hover, a:active{
+    color : yellow;
+}
+

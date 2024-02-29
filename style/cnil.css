@@ -1,0 +1,16 @@
+META_COMMUN{display : block;}
+ID:before{content : "IDENTIFIANT CNIL : ";}
+ID{display: none; color : blue;}
+
+ANCIEN_ID {display : none;}
+ORIGINE {display : none;}
+URL{display : none;}
+NATURE{display : block; color: red; font-size : 16pt;text-align:center;}
+
+TITRE{display : block; font-size: 24pt;padding:30px;text-align:center;}
+TITREFULL:before{display:block; content:"Titre complet : "}
+TITREFULL{display:block; text-align: justify; padding-left:50px;}
+NUMERO:before{content:"NUMERO DE DELIBERATION : ";}
+NUMERO{display : block;}
+NATURE_DELIB:before{content:"NATURE DE LA DELIBERATION : ";}
+NATURE_DELIB{display : block;}

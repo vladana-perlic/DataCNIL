@@ -1,0 +1,1404 @@
+28-09-2023	08:34:51	/~lebarbet/DataCNIL/index.php	152.81.28.136		
+28-09-2023	08:34:58	/~lebarbet/DataCNIL/index.php	152.81.28.136		JJ/MM/AAAA	JJ/MM/AAAA	annee			HYDRO		FILTRER LES TEXTES	
+28-09-2023	08:35:01	/~lebarbet/DataCNIL/loaddelibs.php	152.81.28.136		JJ/MM/AAAA	JJ/MM/AAAA	annee			HYDRO		FILTRER LES TEXTES	2020
+28-09-2023	08:39:24	/~lebarbet/DataCNIL/index.php	152.81.28.136		JJ/MM/AAAA	JJ/MM/AAAA	annee			entrepot de données sant		FILTRER LES TEXTES	
+28-09-2023	08:39:29	/~lebarbet/DataCNIL/index.php	152.81.28.136		JJ/MM/AAAA	JJ/MM/AAAA	annee			entrepot de données sante		FILTRER LES TEXTES	
+28-09-2023	08:39:36	/~lebarbet/DataCNIL/index.php	152.81.28.136		JJ/MM/AAAA	JJ/MM/AAAA	annee			entrepot 		FILTRER LES TEXTES	
+28-09-2023	08:39:38	/~lebarbet/DataCNIL/loaddelibs.php	152.81.28.136		JJ/MM/AAAA	JJ/MM/AAAA	annee			entrepot 		FILTRER LES TEXTES	2023
+28-09-2023	14:06:55	/~lebarbet/DataCNIL/index.php	152.81.28.136		JJ/MM/AAAA	JJ/MM/AAAA	annee			iris		FILTRER LES TEXTES	
+28-09-2023	14:06:58	/~lebarbet/DataCNIL/loaddelibs.php	152.81.28.136		JJ/MM/AAAA	JJ/MM/AAAA	annee			iris		FILTRER LES TEXTES	2022
+28-09-2023	14:08:10	/~lebarbet/DataCNIL/index.php	152.81.28.136		JJ/MM/AAAA	JJ/MM/AAAA	annee			orfead		FILTRER LES TEXTES	
+12-10-2023	09:07:33	/~lebarbet/DataCNIL/index.php	130.190.105.190		
+12-10-2023	16:36:59	/~lebarbet/DataCNIL/index.php	152.77.96.134		
+12-10-2023	16:38:16	/~lebarbet/DataCNIL/index.php	152.77.96.134	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee			loi		FILTRER LES TEXTES	
+12-10-2023	16:38:30	/~lebarbet/DataCNIL/concord.php	152.77.96.134	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee			loi		FILTRER LES TEXTES	
+12-10-2023	16:38:49	/~lebarbet/DataCNIL/loaddelibs.php	152.77.96.134	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee			loi		FILTRER LES TEXTES	all
+12-10-2023	16:41:23	/~lebarbet/DataCNIL/index.php	152.77.96.134		
+12-10-2023	16:45:08	/~lebarbet/DataCNIL/loaddelibs.php	152.77.96.134	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee			loi		FILTRER LES TEXTES	2019
+19-10-2023	12:52:09	/~lebarbet/DataCNIL/index.php	130.190.104.135		
+19-10-2023	17:02:12	/~lebarbet/DataCNIL/index.php	152.77.96.134		
+19-10-2023	17:02:31	/~lebarbet/DataCNIL/loaddelibs.php	152.77.96.134		all
+19-10-2023	17:05:32	/~lebarbet/DataCNIL/index.php	152.77.96.134		
+23-10-2023	19:34:05	/~lebarbet/DataCNIL/index.php	130.190.57.23		
+24-10-2023	11:24:14	/~lebarbet/DataCNIL/index.php	152.81.28.136		
+24-10-2023	11:24:23	/~lebarbet/DataCNIL/index.php	152.81.28.136		JJ/MM/AAAA	JJ/MM/AAAA	annee			IRIS		FILTRER LES TEXTES	
+24-10-2023	11:24:26	/~lebarbet/DataCNIL/loaddelibs.php	152.81.28.136		JJ/MM/AAAA	JJ/MM/AAAA	annee			IRIS		FILTRER LES TEXTES	2022
+24-10-2023	11:24:37	/~lebarbet/DataCNIL/index.php	152.81.28.136		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+24-10-2023	11:24:47	/~lebarbet/DataCNIL/index.php	152.81.28.136		JJ/MM/AAAA	JJ/MM/AAAA	annee			PORFEAD		FILTRER LES TEXTES	
+24-10-2023	11:24:50	/~lebarbet/DataCNIL/index.php	152.81.28.136		JJ/MM/AAAA	JJ/MM/AAAA	annee			ORFEAD		FILTRER LES TEXTES	
+24-10-2023	16:07:03	/~lebarbet/DataCNIL/index.php	46.193.66.26		
+24-10-2023	16:08:18	/~lebarbet/DataCNIL/index.php	46.193.66.26		
+24-10-2023	16:26:25	/~lebarbet/DataCNIL/index.php	46.193.66.26		
+24-10-2023	16:26:32	/~lebarbet/DataCNIL/index.php	46.193.66.26		
+24-10-2023	16:45:29	/~lebarbet/DataCNIL/index.php	46.193.66.26		
+24-10-2023	16:52:17	/~lebarbet/DataCNIL/index.php	46.193.66.26		
+24-10-2023	16:54:46	/~lebarbet/DataCNIL/index.php	46.193.66.26		
+24-10-2023	17:00:55	/~lebarbet/DataCNIL/index.php	46.193.66.26	Sanction		08/08/2023	24/10/2023	annee					FILTRER LES TEXTES	
+24-10-2023	17:01:59	/~lebarbet/DataCNIL/loaddelibs.php	46.193.66.26	Sanction		08/08/2023	24/10/2023	annee					FILTRER LES TEXTES	all
+24-10-2023	17:02:08	/~lebarbet/DataCNIL/index.php	46.193.66.26	
+24-10-2023	17:02:10	/~lebarbet/DataCNIL/loaddelibs.php	46.193.66.26	Effacer le filtre	all
+24-10-2023	17:02:50	/~lebarbet/DataCNIL/loaddelibs.php	46.193.66.26	Effacer le filtre	all
+24-10-2023	17:03:28	/~lebarbet/DataCNIL/loaddelibs.php	35.237.4.214	all
+24-10-2023	17:04:14	/~lebarbet/DataCNIL/loaddelibs.php	46.193.66.26	Effacer le filtre	all
+24-10-2023	17:04:27	/~lebarbet/DataCNIL/loaddelibs.php	93.23.251.20	all
+24-10-2023	17:04:29	/~lebarbet/DataCNIL/index.php	46.193.66.26	Autorisation d'évaluation		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+24-10-2023	17:04:31	/~lebarbet/DataCNIL/loaddelibs.php	46.193.66.26	Autorisation d'évaluation		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+24-10-2023	17:05:00	/~lebarbet/DataCNIL/loaddelibs.php	46.193.66.26	Autorisation d'évaluation		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+24-10-2023	17:05:17	/~lebarbet/DataCNIL/loaddelibs.php	123.6.49.15	
+24-10-2023	17:06:09	/~lebarbet/DataCNIL/loaddelibs.php	46.193.66.26	Autorisation d'évaluation		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+24-10-2023	17:07:24	/~lebarbet/DataCNIL/loaddelibs.php	46.193.66.26	Autorisation d'évaluation		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+24-10-2023	17:07:45	/~lebarbet/DataCNIL/loaddelibs.php	35.237.4.214	all
+24-10-2023	17:08:55	/~lebarbet/DataCNIL/index.php	46.193.66.26	Autorisation d'évaluation		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+24-10-2023	17:12:38	/~lebarbet/DataCNIL/loaddelibs.php	93.23.251.20	all
+24-10-2023	17:16:52	/~lebarbet/DataCNIL/loaddelibs.php	46.193.66.26	Autorisation d'évaluation		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+24-10-2023	17:17:26	/~lebarbet/DataCNIL/loaddelibs.php	93.23.251.20	all
+24-10-2023	17:18:30	/~lebarbet/DataCNIL/index.php	46.193.66.26	Autorisation d'évaluation		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+24-10-2023	17:19:07	/~lebarbet/DataCNIL/index.php	46.193.66.26	Autorisation d'évaluation		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+24-10-2023	17:22:47	/~lebarbet/DataCNIL/index.php	46.193.66.26	Autorisation d'évaluation		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+24-10-2023	17:24:05	/~lebarbet/DataCNIL/index.php	46.193.66.26	Autorisation d'évaluation		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+24-10-2023	17:24:12	/~lebarbet/DataCNIL/index.php	46.193.66.26	Autorisation d'évaluation		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+24-10-2023	17:25:29	/~lebarbet/DataCNIL/index.php	35.196.132.85		
+24-10-2023	17:26:14	/~lebarbet/DataCNIL/index.php	93.23.251.20		
+24-10-2023	17:27:45	/~lebarbet/DataCNIL/index.php	93.23.251.20	Autorisation d'évaluation		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+24-10-2023	17:27:50	/~lebarbet/DataCNIL/loaddelibs.php	93.23.251.20	Autorisation d'évaluation		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+24-10-2023	17:28:00	/~lebarbet/DataCNIL/loaddelibs.php	93.23.251.20	Autorisation d'évaluation		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+24-10-2023	17:28:24	/~lebarbet/DataCNIL/index.php	27.115.124.118		
+24-10-2023	17:28:43	/~lebarbet/DataCNIL/index.php	93.23.251.20	Autorisation d'évaluation		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+24-10-2023	17:29:52	/~lebarbet/DataCNIL/index.php	93.23.251.20		
+25-10-2023	14:44:09	/~lebarbet/DataCNIL/index.php	128.93.82.156		JJ/MM/AAAA	JJ/MM/AAAA	annee			ORFEAD		FILTRER LES TEXTES	
+25-10-2023	14:44:50	/~lebarbet/DataCNIL/index.php	128.93.82.156		JJ/MM/AAAA	JJ/MM/AAAA	annee			INRIA		FILTRER LES TEXTES	
+25-10-2023	14:44:53	/~lebarbet/DataCNIL/loaddelibs.php	128.93.82.156		JJ/MM/AAAA	JJ/MM/AAAA	annee			INRIA		FILTRER LES TEXTES	2021
+25-10-2023	14:45:01	/~lebarbet/DataCNIL/loaddelibs.php	128.93.82.156		JJ/MM/AAAA	JJ/MM/AAAA	annee			INRIA		FILTRER LES TEXTES	all
+25-10-2023	14:45:19	/~lebarbet/DataCNIL/index.php	128.93.82.156		JJ/MM/AAAA	JJ/MM/AAAA	annee			entrepot données santé		FILTRER LES TEXTES	
+25-10-2023	14:45:24	/~lebarbet/DataCNIL/index.php	128.93.82.156		JJ/MM/AAAA	JJ/MM/AAAA	annee			entrepot 		FILTRER LES TEXTES	
+25-10-2023	14:45:27	/~lebarbet/DataCNIL/loaddelibs.php	128.93.82.156		JJ/MM/AAAA	JJ/MM/AAAA	annee			entrepot 		FILTRER LES TEXTES	2023
+26-10-2023	11:23:59	/~lebarbet/DataCNIL/index.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			université bordeaux 		FILTRER LES TEXTES	
+26-10-2023	11:24:10	/~lebarbet/DataCNIL/index.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			universite bordeaux 		FILTRER LES TEXTES	
+26-10-2023	11:24:16	/~lebarbet/DataCNIL/index.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			Bordeaux		FILTRER LES TEXTES	
+26-10-2023	11:24:19	/~lebarbet/DataCNIL/loaddelibs.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			Bordeaux		FILTRER LES TEXTES	2023
+26-10-2023	11:58:11	/~lebarbet/DataCNIL/index.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			cap vert		FILTRER LES TEXTES	
+26-10-2023	11:58:21	/~lebarbet/DataCNIL/index.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			Cap, Vert		FILTRER LES TEXTES	
+26-10-2023	11:58:27	/~lebarbet/DataCNIL/loaddelibs.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			Cap, Vert		FILTRER LES TEXTES	2017
+26-10-2023	12:00:37	/~lebarbet/DataCNIL/index.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			Cap, Vert		FILTRER LES TEXTES	
+26-10-2023	12:00:42	/~lebarbet/DataCNIL/loaddelibs.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			Cap, Vert		FILTRER LES TEXTES	2016
+26-10-2023	12:01:13	/~lebarbet/DataCNIL/index.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			Cap, Vert, cnrs		FILTRER LES TEXTES	
+26-10-2023	12:01:17	/~lebarbet/DataCNIL/loaddelibs.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			Cap, Vert, cnrs		FILTRER LES TEXTES	2017
+26-10-2023	13:53:48	/~lebarbet/DataCNIL/index.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			cnrs		FILTRER LES TEXTES	
+26-10-2023	13:54:03	/~lebarbet/DataCNIL/index.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			Centre National Recherche		FILTRER LES TEXTES	
+26-10-2023	13:54:14	/~lebarbet/DataCNIL/index.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee	Centre National Recherche				FILTRER LES TEXTES	
+26-10-2023	13:54:20	/~lebarbet/DataCNIL/index.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			recherche		FILTRER LES TEXTES	
+26-10-2023	13:54:24	/~lebarbet/DataCNIL/loaddelibs.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			recherche		FILTRER LES TEXTES	2023
+26-10-2023	13:55:41	/~lebarbet/DataCNIL/index.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			CRNL		FILTRER LES TEXTES	
+26-10-2023	13:55:57	/~lebarbet/DataCNIL/index.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee	CRNL				FILTRER LES TEXTES	
+26-10-2023	13:56:08	/~lebarbet/DataCNIL/index.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			neuroscience		FILTRER LES TEXTES	
+26-10-2023	13:56:10	/~lebarbet/DataCNIL/loaddelibs.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			neuroscience		FILTRER LES TEXTES	2009
+26-10-2023	13:59:24	/~lebarbet/DataCNIL/index.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			crnl		FILTRER LES TEXTES	
+26-10-2023	13:59:32	/~lebarbet/DataCNIL/index.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee	crnl				FILTRER LES TEXTES	
+26-10-2023	13:59:53	/~lebarbet/DataCNIL/index.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			LPL		FILTRER LES TEXTES	
+26-10-2023	13:59:56	/~lebarbet/DataCNIL/loaddelibs.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			LPL		FILTRER LES TEXTES	2016
+26-10-2023	14:00:11	/~lebarbet/DataCNIL/index.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			laboratoire		FILTRER LES TEXTES	
+26-10-2023	14:00:18	/~lebarbet/DataCNIL/index.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			laboratoire parole		FILTRER LES TEXTES	
+26-10-2023	14:20:21	/~lebarbet/DataCNIL/index.php	193.55.93.17		
+26-10-2023	14:20:33	/~lebarbet/DataCNIL/index.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			CRNL		FILTRER LES TEXTES	
+26-10-2023	14:20:39	/~lebarbet/DataCNIL/index.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee	CRNL				FILTRER LES TEXTES	
+26-10-2023	14:20:59	/~lebarbet/DataCNIL/index.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			Centre, recherche, 		FILTRER LES TEXTES	
+26-10-2023	14:21:03	/~lebarbet/DataCNIL/loaddelibs.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			Centre, recherche, 		FILTRER LES TEXTES	2022
+26-10-2023	14:23:07	/~lebarbet/DataCNIL/index.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			Centre, recherche, scientifique		FILTRER LES TEXTES	
+26-10-2023	14:23:10	/~lebarbet/DataCNIL/loaddelibs.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			Centre, recherche, scientifique		FILTRER LES TEXTES	2022
+26-10-2023	14:23:17	/~lebarbet/DataCNIL/loaddelibs.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee			Centre, recherche, scientifique		FILTRER LES TEXTES	2023
+26-10-2023	14:26:13	/~lebarbet/DataCNIL/index.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee	neuroscience				FILTRER LES TEXTES	
+26-10-2023	14:26:16	/~lebarbet/DataCNIL/loaddelibs.php	193.55.93.17		JJ/MM/AAAA	JJ/MM/AAAA	annee	neuroscience				FILTRER LES TEXTES	2022
+26-10-2023	15:38:54	/~lebarbet/DataCNIL/index.php	130.190.76.230		
+26-10-2023	15:39:51	/~lebarbet/DataCNIL/index.php	152.77.96.134		
+26-10-2023	15:40:12	/~lebarbet/DataCNIL/index.php	152.77.96.134		
+26-10-2023	15:40:22	/~lebarbet/DataCNIL/index.php	130.190.76.230		
+26-10-2023	15:40:39	/~lebarbet/DataCNIL/index.php	123.6.49.41		
+26-10-2023	15:43:55	/~lebarbet/DataCNIL/index.php	152.77.96.134		
+26-10-2023	15:52:55	/~lebarbet/DataCNIL/index.php	130.190.76.230	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	mois					FILTRER LES TEXTES	
+26-10-2023	15:55:07	/~lebarbet/DataCNIL/index.php	130.190.76.230	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+26-10-2023	15:55:18	/~lebarbet/DataCNIL/index.php	130.190.76.230	AUTORISATION RECHERCHE	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+26-10-2023	15:55:18	/~lebarbet/DataCNIL/index.php	130.190.76.230	
+26-10-2023	16:01:34	/~lebarbet/DataCNIL/index.php	130.190.76.230	Autorisation d'évaluation	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+26-10-2023	16:01:41	/~lebarbet/DataCNIL/index.php	130.190.76.230	Autorisation d'évaluation	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+26-10-2023	16:01:45	/~lebarbet/DataCNIL/index.php	130.190.76.230	Autorisation d'évaluation	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+26-10-2023	16:02:22	/~lebarbet/DataCNIL/index.php	130.190.76.230	Autorisation d'évaluation	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+26-10-2023	16:10:19	/~lebarbet/DataCNIL/index.php	152.77.96.134		
+26-10-2023	16:13:34	/~lebarbet/DataCNIL/index.php	152.77.96.134		
+26-10-2023	16:14:20	/~lebarbet/DataCNIL/index.php	152.77.96.134		
+26-10-2023	16:14:26	/~lebarbet/DataCNIL/loaddelibs.php	152.77.96.134		2010
+26-10-2023	16:14:33	/~lebarbet/DataCNIL/loaddelibs.php	152.77.96.134		2017
+26-10-2023	16:16:31	/~lebarbet/DataCNIL/loaddelibs.php	152.77.96.134		2017
+26-10-2023	16:18:07	/~lebarbet/DataCNIL/loaddelibs.php	152.77.96.134		2015
+26-10-2023	16:22:59	/~lebarbet/DataCNIL/index.php	152.77.96.134	Norme simplifiée		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+26-10-2023	16:23:24	/~lebarbet/DataCNIL/index.php	152.77.96.134	Avis	Norme simplifiée	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+26-10-2023	16:23:59	/~lebarbet/DataCNIL/index.php	152.77.96.134	Avis	Norme simplifiée	DECISION	JJ/MM/2022	JJ/MM/2024	annee					FILTRER LES TEXTES	
+26-10-2023	16:24:04	/~lebarbet/DataCNIL/index.php	152.77.96.134	AUTORISATION RECHERCHE	Avis	Norme simplifiée	DECISION	JJ/MM/2022	JJ/MM/2024	annee					FILTRER LES TEXTES	
+26-10-2023	16:24:20	/~lebarbet/DataCNIL/index.php	152.77.96.134	Avis	Norme simplifiée	DECISION	JJ/MM/2022	JJ/MM/2024	annee					FILTRER LES TEXTES	
+26-10-2023	16:24:29	/~lebarbet/DataCNIL/index.php	152.77.96.134	
+26-10-2023	16:24:39	/~lebarbet/DataCNIL/loaddelibs.php	152.77.96.134	Effacer le filtre	2021
+26-10-2023	16:30:08	/~lebarbet/DataCNIL/index.php	152.77.96.134		
+26-10-2023	16:30:33	/~lebarbet/DataCNIL/index.php	152.77.96.134		
+26-10-2023	16:32:19	/~lebarbet/DataCNIL/loaddelibs.php	152.77.96.134		all
+26-10-2023	16:32:24	/~lebarbet/DataCNIL/loaddelibs.php	152.77.96.134		all
+26-10-2023	16:39:04	/~lebarbet/DataCNIL/index.php	152.77.96.134		
+26-10-2023	16:42:54	/~lebarbet/DataCNIL/loaddelibs.php	152.77.96.134		all
+30-10-2023	07:48:42	/~lebarbet/DataCNIL/index.php	88.121.107.157		
+30-10-2023	08:00:21	/~lebarbet/DataCNIL/index.php	90.116.18.47		
+07-11-2023	15:16:32	/~lebarbet/DataCNIL/index.php	152.81.28.136		
+07-11-2023	15:16:37	/~lebarbet/DataCNIL/loaddelibs.php	152.81.28.136		2023
+07-11-2023	15:16:48	/~lebarbet/DataCNIL/index.php	152.81.28.136		JJ/MM/AAAA	JJ/MM/AAAA	annee			ORFEAD		FILTRER LES TEXTES	
+07-11-2023	15:16:55	/~lebarbet/DataCNIL/index.php	152.81.28.136		JJ/MM/AAAA	JJ/MM/AAAA	annee			IRIS		FILTRER LES TEXTES	
+07-11-2023	15:16:58	/~lebarbet/DataCNIL/loaddelibs.php	152.81.28.136		JJ/MM/AAAA	JJ/MM/AAAA	annee			IRIS		FILTRER LES TEXTES	2022
+07-11-2023	15:17:14	/~lebarbet/DataCNIL/index.php	152.81.28.136		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+07-11-2023	15:17:27	/~lebarbet/DataCNIL/index.php	152.81.28.136		JJ/MM/AAAA	JJ/MM/AAAA	annee			centre, national, recherche, 		FILTRER LES TEXTES	
+07-11-2023	15:17:30	/~lebarbet/DataCNIL/loaddelibs.php	152.81.28.136		JJ/MM/AAAA	JJ/MM/AAAA	annee			centre, national, recherche, 		FILTRER LES TEXTES	2023
+13-11-2023	11:54:05	/~lebarbet/DataCNIL/index.php	92.157.29.249		
+14-11-2023	10:34:41	/~lebarbet/DataCNIL/index.php	37.171.249.36		
+20-11-2023	10:02:16	/~lebarbet/DataCNIL/index.php	88.121.107.157		
+20-11-2023	10:02:23	/~lebarbet/DataCNIL/index.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee			CHU Nice		FILTRER LES TEXTES	
+20-11-2023	10:02:31	/~lebarbet/DataCNIL/index.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee			CHU		FILTRER LES TEXTES	
+20-11-2023	10:02:45	/~lebarbet/DataCNIL/loaddelibs.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee			CHU		FILTRER LES TEXTES	2015
+20-11-2023	10:03:01	/~lebarbet/DataCNIL/index.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee			Centre hospitalier universitaire de Nantes		FILTRER LES TEXTES	
+20-11-2023	10:03:10	/~lebarbet/DataCNIL/index.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee			Centre hospitalier universitaire de Nice		FILTRER LES TEXTES	
+20-11-2023	10:03:12	/~lebarbet/DataCNIL/loaddelibs.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee			Centre hospitalier universitaire de Nice		FILTRER LES TEXTES	2013
+20-11-2023	10:05:29	/~lebarbet/DataCNIL/index.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee			DMFSH 		FILTRER LES TEXTES	
+20-11-2023	10:05:47	/~lebarbet/DataCNIL/index.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee			MFSH 		FILTRER LES TEXTES	
+20-11-2023	10:06:38	/~lebarbet/DataCNIL/index.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee			Reconnaissance faciale par ordinateur pour le diagnostic automatisé  de la Dystrophie Musculaire  Facio-Scapulo-Huméral		FILTRER LES TEXTES	
+20-11-2023	10:06:46	/~lebarbet/DataCNIL/index.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee			Dystrophie Musculaire  Facio-Scapulo-Huméral		FILTRER LES TEXTES	
+20-11-2023	10:06:50	/~lebarbet/DataCNIL/index.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee			Dystrophie Musculaire 		FILTRER LES TEXTES	
+20-11-2023	10:06:53	/~lebarbet/DataCNIL/index.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee			Dystrophie Musculaire		FILTRER LES TEXTES	
+20-11-2023	10:06:57	/~lebarbet/DataCNIL/index.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee			Dystrophie,Musculaire		FILTRER LES TEXTES	
+20-11-2023	10:07:19	/~lebarbet/DataCNIL/index.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee	Reconnaissance faciale par ordinateur pour le diagnostic automatisé  de la Dystrophie Musculaire  Facio-Scapulo-Huméral				FILTRER LES TEXTES	
+20-11-2023	10:07:28	/~lebarbet/DataCNIL/index.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee	CHU, Nice				FILTRER LES TEXTES	
+20-11-2023	10:07:31	/~lebarbet/DataCNIL/loaddelibs.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee	CHU, Nice				FILTRER LES TEXTES	2014
+20-11-2023	10:07:40	/~lebarbet/DataCNIL/loaddelibs.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee	CHU, Nice				FILTRER LES TEXTES	2017
+20-11-2023	10:08:32	/~lebarbet/DataCNIL/index.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee			CHU, Nice		FILTRER LES TEXTES	
+20-11-2023	10:08:35	/~lebarbet/DataCNIL/loaddelibs.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee			CHU, Nice		FILTRER LES TEXTES	2023
+20-11-2023	10:08:55	/~lebarbet/DataCNIL/index.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee	Dystrophie Musculaire				FILTRER LES TEXTES	
+20-11-2023	10:11:26	/~lebarbet/DataCNIL/loaddelibs.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee	Dystrophie Musculaire				FILTRER LES TEXTES	2012
+21-11-2023	14:35:26	/~lebarbet/DataCNIL/loaddelibs.php	152.81.72.46	2023
+21-11-2023	14:35:33	/~lebarbet/DataCNIL/index.php	152.81.72.46		
+21-11-2023	14:35:39	/~lebarbet/DataCNIL/index.php	152.81.72.46		JJ/MM/AAAA	JJ/MM/AAAA	annee			Inria		FILTRER LES TEXTES	
+21-11-2023	14:35:44	/~lebarbet/DataCNIL/loaddelibs.php	152.81.72.46		JJ/MM/AAAA	JJ/MM/AAAA	annee			Inria		FILTRER LES TEXTES	2011
+21-11-2023	14:35:54	/~lebarbet/DataCNIL/loaddelibs.php	152.81.72.46		JJ/MM/AAAA	JJ/MM/AAAA	annee			Inria		FILTRER LES TEXTES	2018
+21-11-2023	14:36:09	/~lebarbet/DataCNIL/index.php	152.81.72.46		JJ/MM/AAAA	JJ/MM/AAAA	annee			honey		FILTRER LES TEXTES	
+21-11-2023	14:36:12	/~lebarbet/DataCNIL/loaddelibs.php	152.81.72.46		JJ/MM/AAAA	JJ/MM/AAAA	annee			honey		FILTRER LES TEXTES	2009
+21-11-2023	14:36:17	/~lebarbet/DataCNIL/loaddelibs.php	152.81.72.46		JJ/MM/AAAA	JJ/MM/AAAA	annee			honey		FILTRER LES TEXTES	2008
+21-11-2023	14:36:31	/~lebarbet/DataCNIL/index.php	152.81.72.46		JJ/MM/AAAA	JJ/MM/AAAA	annee	Inria				FILTRER LES TEXTES	
+21-11-2023	14:36:37	/~lebarbet/DataCNIL/index.php	152.81.72.46		JJ/MM/AAAA	JJ/MM/AAAA	annee	honey				FILTRER LES TEXTES	
+21-11-2023	14:36:41	/~lebarbet/DataCNIL/loaddelibs.php	152.81.72.46		JJ/MM/AAAA	JJ/MM/AAAA	annee	honey				FILTRER LES TEXTES	2008
+21-11-2023	14:36:45	/~lebarbet/DataCNIL/loaddelibs.php	152.81.72.46		JJ/MM/AAAA	JJ/MM/AAAA	annee	honey				FILTRER LES TEXTES	2009
+21-11-2023	14:36:48	/~lebarbet/DataCNIL/loaddelibs.php	152.81.72.46		JJ/MM/AAAA	JJ/MM/AAAA	annee	honey				FILTRER LES TEXTES	2013
+21-11-2023	14:38:17	/~lebarbet/DataCNIL/index.php	152.81.72.46		JJ/MM/AAAA	JJ/MM/AAAA	annee	honey		Pot de miel 		FILTRER LES TEXTES	
+21-11-2023	14:39:04	/~lebarbet/DataCNIL/index.php	152.81.72.46		JJ/MM/AAAA	JJ/MM/AAAA	annee			Pot de miel 		FILTRER LES TEXTES	
+21-11-2023	14:40:55	/~lebarbet/DataCNIL/index.php	152.81.72.46		JJ/MM/AAAA	JJ/MM/AAAA	annee			deployement de honey		FILTRER LES TEXTES	
+21-11-2023	14:41:02	/~lebarbet/DataCNIL/index.php	152.81.72.46		JJ/MM/AAAA	JJ/MM/AAAA	annee			adresse IP		FILTRER LES TEXTES	
+21-11-2023	14:41:06	/~lebarbet/DataCNIL/loaddelibs.php	152.81.72.46		JJ/MM/AAAA	JJ/MM/AAAA	annee			adresse IP		FILTRER LES TEXTES	2009
+21-11-2023	14:41:43	/~lebarbet/DataCNIL/index.php	152.81.72.46		JJ/MM/AAAA	JJ/MM/AAAA	annee			LORIA		FILTRER LES TEXTES	
+21-11-2023	14:41:47	/~lebarbet/DataCNIL/loaddelibs.php	152.81.72.46		JJ/MM/AAAA	JJ/MM/AAAA	annee			LORIA		FILTRER LES TEXTES	2014
+21-11-2023	14:41:54	/~lebarbet/DataCNIL/loaddelibs.php	152.81.72.46		JJ/MM/AAAA	JJ/MM/AAAA	annee			LORIA		FILTRER LES TEXTES	2015
+21-11-2023	14:41:59	/~lebarbet/DataCNIL/loaddelibs.php	152.81.72.46		JJ/MM/AAAA	JJ/MM/AAAA	annee			LORIA		FILTRER LES TEXTES	2016
+01-12-2023	15:38:02	/~lebarbet/DataCNIL/loaddelibs.php	88.121.107.157	2023
+01-12-2023	15:38:08	/~lebarbet/DataCNIL/index.php	88.121.107.157		
+01-12-2023	15:38:39	/~lebarbet/DataCNIL/index.php	88.121.107.157	DECISION	30/12/2019	01/01/2020	annee					FILTRER LES TEXTES	
+01-12-2023	15:38:41	/~lebarbet/DataCNIL/loaddelibs.php	88.121.107.157	DECISION	30/12/2019	01/01/2020	annee					FILTRER LES TEXTES	2019
+01-12-2023	15:39:00	/~lebarbet/DataCNIL/index.php	88.121.107.157	DECISION	30/12/2019	01/01/2020	mois					FILTRER LES TEXTES	
+01-12-2023	15:39:03	/~lebarbet/DataCNIL/loaddelibs.php	88.121.107.157	DECISION	30/12/2019	01/01/2020	mois					FILTRER LES TEXTES	12/2019
+01-12-2023	15:39:20	/~lebarbet/DataCNIL/index.php	88.121.107.157	DECISION	30/12/2019	01/01/2020	mois			2019-35		FILTRER LES TEXTES	
+01-12-2023	15:39:34	/~lebarbet/DataCNIL/index.php	88.121.107.157	DECISION			mois	2019-35		2019-35		FILTRER LES TEXTES	
+01-12-2023	15:39:44	/~lebarbet/DataCNIL/index.php	88.121.107.157	DECISION			mois	2019-35				FILTRER LES TEXTES	
+01-12-2023	15:39:46	/~lebarbet/DataCNIL/index.php	88.121.107.157	
+01-12-2023	15:39:46	/~lebarbet/DataCNIL/index.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+01-12-2023	15:39:55	/~lebarbet/DataCNIL/index.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee	MED				FILTRER LES TEXTES	
+01-12-2023	15:40:02	/~lebarbet/DataCNIL/loaddelibs.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee	MED				FILTRER LES TEXTES	2019
+01-12-2023	15:40:15	/~lebarbet/DataCNIL/index.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	mois	MED				FILTRER LES TEXTES	
+01-12-2023	15:40:22	/~lebarbet/DataCNIL/loaddelibs.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	mois	MED				FILTRER LES TEXTES	02/2020
+01-12-2023	15:40:45	/~lebarbet/DataCNIL/index.php	88.121.107.157		01/12/2019	JJ/MM/AAAA	mois	MED				FILTRER LES TEXTES	
+01-12-2023	15:40:52	/~lebarbet/DataCNIL/loaddelibs.php	88.121.107.157		01/12/2019	JJ/MM/AAAA	mois	MED				FILTRER LES TEXTES	12/2019
+01-12-2023	15:41:04	/~lebarbet/DataCNIL/index.php	88.121.107.157		01/12/2019	JJ/MM/AAAA	mois	MED		archivage		FILTRER LES TEXTES	
+01-12-2023	15:41:08	/~lebarbet/DataCNIL/loaddelibs.php	88.121.107.157		01/12/2019	JJ/MM/AAAA	mois	MED		archivage		FILTRER LES TEXTES	12/2019
+01-12-2023	15:42:14	/~lebarbet/DataCNIL/index.php	88.121.107.157			JJ/MM/AAAA	mois	2005-213		archivage		FILTRER LES TEXTES	
+01-12-2023	15:42:36	/~lebarbet/DataCNIL/index.php	88.121.107.157			JJ/MM/AAAA	mois	archivage				FILTRER LES TEXTES	
+01-12-2023	15:43:04	/~lebarbet/DataCNIL/index.php	88.121.107.157			JJ/MM/AAAA	mois	archivage, electronique				FILTRER LES TEXTES	
+01-12-2023	15:43:13	/~lebarbet/DataCNIL/index.php	88.121.107.157			JJ/MM/AAAA	mois			archivage, electronique		FILTRER LES TEXTES	
+01-12-2023	15:43:32	/~lebarbet/DataCNIL/index.php	88.121.107.157			JJ/MM/AAAA	mois	2005-213		archivage		FILTRER LES TEXTES	
+01-12-2023	15:43:42	/~lebarbet/DataCNIL/index.php	88.121.107.157			JJ/MM/AAAA	mois	archivage				FILTRER LES TEXTES	
+01-12-2023	15:43:47	/~lebarbet/DataCNIL/loaddelibs.php	88.121.107.157			JJ/MM/AAAA	mois	archivage				FILTRER LES TEXTES	10/2005
+04-12-2023	11:26:53	/~lebarbet/DataCNIL/index.php	88.121.107.157		
+04-12-2023	11:27:00	/~lebarbet/DataCNIL/index.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee			reproductibilité		FILTRER LES TEXTES	
+04-12-2023	11:27:02	/~lebarbet/DataCNIL/loaddelibs.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee			reproductibilité		FILTRER LES TEXTES	2022
+04-12-2023	11:29:18	/~lebarbet/DataCNIL/index.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee			recherche, durée, conservation		FILTRER LES TEXTES	
+04-12-2023	11:29:21	/~lebarbet/DataCNIL/loaddelibs.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee			recherche, durée, conservation		FILTRER LES TEXTES	2023
+04-12-2023	11:41:04	/~lebarbet/DataCNIL/index.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee			recherche, intégrité		FILTRER LES TEXTES	
+04-12-2023	11:41:06	/~lebarbet/DataCNIL/loaddelibs.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee			recherche, intégrité		FILTRER LES TEXTES	2023
+04-12-2023	13:43:47	/~lebarbet/DataCNIL/index.php	78.242.59.156		
+04-12-2023	13:44:49	/~lebarbet/DataCNIL/index.php	27.115.124.45		
+04-12-2023	13:45:42	/~lebarbet/DataCNIL/loaddelibs.php	78.242.59.156		all
+04-12-2023	13:45:53	/~lebarbet/DataCNIL/loaddelibs.php	27.115.124.118	
+06-12-2023	18:46:45	/~lebarbet/DataCNIL/index.php	37.174.147.248		
+06-12-2023	18:47:08	/~lebarbet/DataCNIL/index.php	37.174.147.248		JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations				FILTRER LES TEXTES	
+06-12-2023	18:47:32	/~lebarbet/DataCNIL/index.php	37.174.147.248		JJ/MM/AAAA	JJ/MM/AAAA	annee	utorisations				FILTRER LES TEXTES	
+06-12-2023	18:47:44	/~lebarbet/DataCNIL/index.php	37.174.147.248	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee	utorisations				FILTRER LES TEXTES	
+06-12-2023	18:47:52	/~lebarbet/DataCNIL/loaddelibs.php	37.174.147.248	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee	utorisations				FILTRER LES TEXTES	all
+06-12-2023	18:48:26	/~lebarbet/DataCNIL/index.php	37.174.147.248	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations				FILTRER LES TEXTES	
+06-12-2023	18:48:31	/~lebarbet/DataCNIL/loaddelibs.php	37.174.147.248	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations				FILTRER LES TEXTES	all
+06-12-2023	18:48:49	/~lebarbet/DataCNIL/loaddelibs.php	37.174.147.248	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations				FILTRER LES TEXTES	all
+06-12-2023	18:49:17	/~lebarbet/DataCNIL/index.php	37.174.147.248	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations				FILTRER LES TEXTES	
+06-12-2023	18:49:25	/~lebarbet/DataCNIL/index.php	37.174.147.248	Autre autorisation		JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations				FILTRER LES TEXTES	
+06-12-2023	18:49:28	/~lebarbet/DataCNIL/loaddelibs.php	37.174.147.248	Autre autorisation		JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations				FILTRER LES TEXTES	all
+06-12-2023	18:49:42	/~lebarbet/DataCNIL/index.php	37.174.147.248	Autre autorisation		JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisation				FILTRER LES TEXTES	
+06-12-2023	18:49:55	/~lebarbet/DataCNIL/index.php	37.174.147.248	Autre autorisation		JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations				FILTRER LES TEXTES	
+11-12-2023	17:11:13	/~lebarbet/DataCNIL/index.php	130.190.105.109		
+11-12-2023	17:11:15	/~lebarbet/DataCNIL/index.php	130.190.105.109		
+11-12-2023	17:11:24	/~lebarbet/DataCNIL/loaddelibs.php	130.190.105.109		all
+13-12-2023	13:39:48	/~lebarbet/DataCNIL/index.php	130.190.104.174		
+13-12-2023	13:41:18	/~lebarbet/DataCNIL/index.php	130.190.76.240		
+13-12-2023	13:50:20	/~lebarbet/DataCNIL/index.php	130.190.76.240		
+13-12-2023	13:51:48	/~lebarbet/DataCNIL/index.php	130.190.104.174	Autorisation de transfert		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+13-12-2023	13:52:03	/~lebarbet/DataCNIL/index.php	130.190.104.174	AUTORISATION RECHERCHE		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+13-12-2023	14:00:16	/~lebarbet/DataCNIL/index.php	130.190.104.174	Autre autorisation	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+13-12-2023	14:00:27	/~lebarbet/DataCNIL/index.php	130.190.76.240	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee	utorisations，				FILTRER LES TEXTES	
+13-12-2023	14:00:33	/~lebarbet/DataCNIL/loaddelibs.php	130.190.76.240	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee	utorisations，				FILTRER LES TEXTES	all
+13-12-2023	14:00:38	/~lebarbet/DataCNIL/loaddelibs.php	130.190.76.240	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee	utorisations，				FILTRER LES TEXTES	all
+13-12-2023	14:00:39	/~lebarbet/DataCNIL/index.php	130.190.104.174	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee	entrepôt de données de santé				FILTRER LES TEXTES	
+13-12-2023	14:00:50	/~lebarbet/DataCNIL/index.php	130.190.76.240	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations，				FILTRER LES TEXTES	
+13-12-2023	14:00:55	/~lebarbet/DataCNIL/loaddelibs.php	130.190.76.240	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations，				FILTRER LES TEXTES	all
+13-12-2023	14:01:06	/~lebarbet/DataCNIL/index.php	130.190.104.174	
+13-12-2023	14:01:11	/~lebarbet/DataCNIL/loaddelibs.php	130.190.104.174	Effacer le filtre	all
+13-12-2023	14:01:39	/~lebarbet/DataCNIL/index.php	130.190.104.174		JJ/MM/AAAA	JJ/MM/AAAA	annee	"entrepôt de données de santé"				FILTRER LES TEXTES	
+13-12-2023	14:01:40	/~lebarbet/DataCNIL/index.php	130.190.76.240	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations,				FILTRER LES TEXTES	
+13-12-2023	14:01:44	/~lebarbet/DataCNIL/loaddelibs.php	130.190.76.240	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations,				FILTRER LES TEXTES	all
+13-12-2023	14:02:07	/~lebarbet/DataCNIL/index.php	130.190.76.240	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations-				FILTRER LES TEXTES	
+13-12-2023	14:02:11	/~lebarbet/DataCNIL/loaddelibs.php	130.190.76.240	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations-				FILTRER LES TEXTES	all
+13-12-2023	14:02:27	/~lebarbet/DataCNIL/index.php	130.190.104.174		JJ/MM/AAAA	JJ/MM/AAAA	annee	entrepot				FILTRER LES TEXTES	
+13-12-2023	14:02:29	/~lebarbet/DataCNIL/loaddelibs.php	130.190.76.240	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations-				FILTRER LES TEXTES	all
+13-12-2023	14:02:33	/~lebarbet/DataCNIL/loaddelibs.php	130.190.104.174		JJ/MM/AAAA	JJ/MM/AAAA	annee	entrepot				FILTRER LES TEXTES	all
+13-12-2023	14:02:34	/~lebarbet/DataCNIL/index.php	130.190.76.240	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisation				FILTRER LES TEXTES	
+13-12-2023	14:02:38	/~lebarbet/DataCNIL/loaddelibs.php	130.190.76.240	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisation				FILTRER LES TEXTES	all
+13-12-2023	14:02:48	/~lebarbet/DataCNIL/index.php	130.190.104.174		JJ/MM/AAAA	JJ/MM/AAAA	annee	entrepot des données				FILTRER LES TEXTES	
+13-12-2023	14:03:17	/~lebarbet/DataCNIL/index.php	130.190.104.174		JJ/MM/AAAA	JJ/MM/AAAA	annee			"entrepot des données"		FILTRER LES TEXTES	
+13-12-2023	14:03:23	/~lebarbet/DataCNIL/concord.php	130.190.104.174		JJ/MM/AAAA	JJ/MM/AAAA	annee			"entrepot des données"		FILTRER LES TEXTES	
+13-12-2023	14:03:25	/~lebarbet/DataCNIL/loaddelibs.php	130.190.104.174		JJ/MM/AAAA	JJ/MM/AAAA	annee			"entrepot des données"		FILTRER LES TEXTES	all
+13-12-2023	14:03:42	/~lebarbet/DataCNIL/index.php	130.190.104.174		JJ/MM/AAAA	JJ/MM/AAAA	annee			entrepot des données 		FILTRER LES TEXTES	
+13-12-2023	14:03:48	/~lebarbet/DataCNIL/loaddelibs.php	130.190.104.174		JJ/MM/AAAA	JJ/MM/AAAA	annee			entrepot des données 		FILTRER LES TEXTES	all
+13-12-2023	14:03:56	/~lebarbet/DataCNIL/concord.php	130.190.104.174		JJ/MM/AAAA	JJ/MM/AAAA	annee			entrepot des données 		FILTRER LES TEXTES	
+13-12-2023	14:04:13	/~lebarbet/DataCNIL/index.php	130.190.104.174		JJ/MM/AAAA	JJ/MM/AAAA	annee			entrepôt de données de santé		FILTRER LES TEXTES	
+13-12-2023	14:04:17	/~lebarbet/DataCNIL/loaddelibs.php	130.190.104.174		JJ/MM/AAAA	JJ/MM/AAAA	annee			entrepôt de données de santé		FILTRER LES TEXTES	all
+13-12-2023	14:04:19	/~lebarbet/DataCNIL/concord.php	130.190.104.174		JJ/MM/AAAA	JJ/MM/AAAA	annee			entrepôt de données de santé		FILTRER LES TEXTES	
+13-12-2023	14:04:20	/~lebarbet/DataCNIL/loaddelibs.php	130.190.76.240	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisation				FILTRER LES TEXTES	all
+13-12-2023	14:04:50	/~lebarbet/DataCNIL/index.php	130.190.76.240	
+13-12-2023	14:04:58	/~lebarbet/DataCNIL/index.php	130.190.104.174		JJ/MM/AAAA	JJ/MM/AAAA	annee			entrepôt de données de santé		FILTRER LES TEXTES	
+13-12-2023	14:13:59	/~lebarbet/DataCNIL/index.php	130.190.76.240		JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisation				FILTRER LES TEXTES	
+13-12-2023	14:14:01	/~lebarbet/DataCNIL/loaddelibs.php	130.190.76.240		JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisation				FILTRER LES TEXTES	all
+13-12-2023	14:16:19	/~lebarbet/DataCNIL/index.php	130.190.104.174		JJ/MM/AAAA	JJ/MM/AAAA	annee			entrepôt de données de santé		FILTRER LES TEXTES	
+13-12-2023	14:39:30	/~lebarbet/DataCNIL/concord.php	130.190.104.174		JJ/MM/AAAA	JJ/MM/AAAA	annee			entrepôt de données de santé		FILTRER LES TEXTES	
+13-12-2023	14:46:39	/~lebarbet/DataCNIL/index.php	130.190.104.174		JJ/MM/AAAA	JJ/MM/AAAA	annee			entrepôt de données de santé		FILTRER LES TEXTES	
+13-12-2023	14:46:48	/~lebarbet/DataCNIL/index.php	130.190.104.174		JJ/MM/AAAA	JJ/MM/AAAA	annee	c.n.r.s.		entrepôt de données de santé		FILTRER LES TEXTES	
+13-12-2023	14:47:05	/~lebarbet/DataCNIL/index.php	130.190.76.240		JJ/MM/AAAA	JJ/MM/AAAA	annee	c.n.r.s				FILTRER LES TEXTES	
+13-12-2023	14:47:07	/~lebarbet/DataCNIL/index.php	130.190.76.240		JJ/MM/AAAA	JJ/MM/AAAA	annee	c.n.r.s				FILTRER LES TEXTES	
+13-12-2023	14:47:11	/~lebarbet/DataCNIL/loaddelibs.php	130.190.76.240		JJ/MM/AAAA	JJ/MM/AAAA	annee	c.n.r.s				FILTRER LES TEXTES	all
+13-12-2023	14:47:17	/~lebarbet/DataCNIL/index.php	130.190.104.174	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee			c.n.r.s.		FILTRER LES TEXTES	
+13-12-2023	14:47:24	/~lebarbet/DataCNIL/loaddelibs.php	130.190.104.174	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee			c.n.r.s.		FILTRER LES TEXTES	all
+13-12-2023	14:47:33	/~lebarbet/DataCNIL/index.php	130.190.104.174	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+13-12-2023	14:47:39	/~lebarbet/DataCNIL/loaddelibs.php	130.190.104.174	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-12-2023	14:47:40	/~lebarbet/DataCNIL/index.php	130.190.76.240		JJ/MM/AAAA	JJ/MM/AAAA	annee			c.n.r.s		FILTRER LES TEXTES	
+13-12-2023	14:47:51	/~lebarbet/DataCNIL/index.php	130.190.104.174		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+13-12-2023	14:47:58	/~lebarbet/DataCNIL/loaddelibs.php	130.190.104.174		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-12-2023	14:48:15	/~lebarbet/DataCNIL/index.php	130.190.104.174		JJ/MM/AAAA	JJ/MM/AAAA	annee			C.N.R.S		FILTRER LES TEXTES	
+13-12-2023	14:48:20	/~lebarbet/DataCNIL/loaddelibs.php	130.190.104.174		JJ/MM/AAAA	JJ/MM/AAAA	annee			C.N.R.S		FILTRER LES TEXTES	all
+13-12-2023	14:48:57	/~lebarbet/DataCNIL/index.php	130.190.76.240		JJ/MM/AAAA	JJ/MM/AAAA	annee			c.n.r.s		FILTRER LES TEXTES	
+13-12-2023	14:48:58	/~lebarbet/DataCNIL/loaddelibs.php	130.190.76.240		JJ/MM/AAAA	JJ/MM/AAAA	annee			c.n.r.s		FILTRER LES TEXTES	all
+13-12-2023	14:50:12	/~lebarbet/DataCNIL/index.php	130.190.104.174		JJ/MM/AAAA	JJ/MM/AAAA	annee			cnrs		FILTRER LES TEXTES	
+13-12-2023	14:50:23	/~lebarbet/DataCNIL/loaddelibs.php	130.190.104.174		JJ/MM/AAAA	JJ/MM/AAAA	annee			cnrs		FILTRER LES TEXTES	all
+13-12-2023	14:52:28	/~lebarbet/DataCNIL/concord.php	130.190.76.240		JJ/MM/AAAA	JJ/MM/AAAA	annee			c.n.r.s		FILTRER LES TEXTES	
+13-12-2023	14:54:36	/~lebarbet/DataCNIL/index.php	130.190.76.240		JJ/MM/AAAA	JJ/MM/AAAA	annee			autorisation		FILTRER LES TEXTES	
+13-12-2023	14:54:39	/~lebarbet/DataCNIL/concord.php	130.190.76.240		JJ/MM/AAAA	JJ/MM/AAAA	annee			autorisation		FILTRER LES TEXTES	
+13-12-2023	14:55:04	/~lebarbet/DataCNIL/loaddelibs.php	130.190.76.240		JJ/MM/AAAA	JJ/MM/AAAA	annee			autorisation		FILTRER LES TEXTES	all
+13-12-2023	14:56:08	/~lebarbet/DataCNIL/index.php	130.190.76.240		JJ/MM/AAAA	JJ/MM/AAAA	annee			autorisation		FILTRER LES TEXTES	
+13-12-2023	15:00:43	/~lebarbet/DataCNIL/loaddelibs.php	130.190.76.240		JJ/MM/AAAA	JJ/MM/AAAA	annee			autorisation		FILTRER LES TEXTES	all
+13-12-2023	15:01:33	/~lebarbet/DataCNIL/index.php	130.190.76.240		JJ/MM/AAAA	JJ/MM/AAAA	annee			autorisations		FILTRER LES TEXTES	
+13-12-2023	15:01:36	/~lebarbet/DataCNIL/loaddelibs.php	130.190.76.240		JJ/MM/AAAA	JJ/MM/AAAA	annee			autorisations		FILTRER LES TEXTES	all
+13-12-2023	15:01:42	/~lebarbet/DataCNIL/loaddelibs.php	130.190.76.240		JJ/MM/AAAA	JJ/MM/AAAA	annee			autorisations		FILTRER LES TEXTES	all
+13-12-2023	15:06:41	/~lebarbet/DataCNIL/index.php	130.190.104.174		
+13-12-2023	15:11:47	/~lebarbet/DataCNIL/concord.php	130.190.104.174		
+13-12-2023	15:11:51	/~lebarbet/DataCNIL/concord.php	130.190.104.174		
+13-12-2023	15:12:01	/~lebarbet/DataCNIL/index.php	130.190.104.174		JJ/MM/AAAA	JJ/MM/AAAA	annee			cnrs		FILTRER LES TEXTES	
+13-12-2023	15:12:03	/~lebarbet/DataCNIL/concord.php	130.190.104.174		JJ/MM/AAAA	JJ/MM/AAAA	annee			cnrs		FILTRER LES TEXTES	
+13-12-2023	15:14:21	/~lebarbet/DataCNIL/index.php	130.190.76.240		JJ/MM/AAAA	JJ/MM/AAAA	annee			english		FILTRER LES TEXTES	
+13-12-2023	15:14:23	/~lebarbet/DataCNIL/loaddelibs.php	130.190.76.240		JJ/MM/AAAA	JJ/MM/AAAA	annee			english		FILTRER LES TEXTES	all
+13-12-2023	15:17:43	/~lebarbet/DataCNIL/index.php	130.190.76.240		JJ/MM/AAAA	JJ/MM/AAAA	annee			Autorisation		FILTRER LES TEXTES	
+13-12-2023	15:18:02	/~lebarbet/DataCNIL/index.php	130.190.76.240		JJ/MM/AAAA	JJ/MM/AAAA	annee			Autorisation,		FILTRER LES TEXTES	
+13-12-2023	15:18:07	/~lebarbet/DataCNIL/index.php	130.190.76.240		JJ/MM/AAAA	JJ/MM/AAAA	annee			Autorisation.		FILTRER LES TEXTES	
+13-12-2023	15:18:43	/~lebarbet/DataCNIL/index.php	130.190.76.240		JJ/MM/AAAA	JJ/MM/AAAA	annee			autorisation.		FILTRER LES TEXTES	
+13-12-2023	15:19:08	/~lebarbet/DataCNIL/index.php	130.190.76.240		JJ/MM/AAAA	JJ/MM/AAAA	annee			AUTORISATION		FILTRER LES TEXTES	
+13-12-2023	16:23:25	/~lebarbet/DataCNIL/index.php	130.190.104.174		
+13-12-2023	18:43:03	/~lebarbet/DataCNIL/index.php	66.249.66.45		
+13-12-2023	19:37:05	/~lebarbet/DataCNIL/index.php	78.240.116.123		
+13-12-2023	19:42:24	/~lebarbet/DataCNIL/loaddelibs.php	78.240.116.123		all
+13-12-2023	19:43:05	/~lebarbet/DataCNIL/loaddelibs.php	78.240.116.123		all
+13-12-2023	19:49:31	/~lebarbet/DataCNIL/index.php	78.240.116.123		
+14-12-2023	12:16:10	/~lebarbet/DataCNIL/index.php	37.165.233.201		
+14-12-2023	13:22:51	/~lebarbet/DataCNIL/index.php	130.190.58.162		
+14-12-2023	13:22:56	/~lebarbet/DataCNIL/index.php	35.227.62.178		
+14-12-2023	13:24:40	/~lebarbet/DataCNIL/index.php	37.165.233.201		
+14-12-2023	14:27:10	/~lebarbet/DataCNIL/index.php	130.190.58.162		
+20-12-2023	14:53:40	/~lebarbet/DataCNIL/index.php	78.240.65.185		
+20-12-2023	14:59:29	/~lebarbet/DataCNIL/index.php	78.240.65.185		JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations				FILTRER LES TEXTES	
+20-12-2023	14:59:34	/~lebarbet/DataCNIL/index.php	78.240.65.185		JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations				FILTRER LES TEXTES	
+20-12-2023	14:59:39	/~lebarbet/DataCNIL/loaddelibs.php	78.240.65.185		JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations				FILTRER LES TEXTES	all
+21-12-2023	13:56:08	/~lebarbet/DataCNIL/index.php	130.190.105.89		
+21-12-2023	13:57:42	/~lebarbet/DataCNIL/loaddelibs.php	130.190.105.89		2017
+21-12-2023	14:58:18	/~lebarbet/DataCNIL/index.php	66.249.66.45		
+22-12-2023	10:37:17	/~lebarbet/DataCNIL/index.php	88.121.107.157		
+22-12-2023	10:37:24	/~lebarbet/DataCNIL/index.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee			orfead		FILTRER LES TEXTES	
+22-12-2023	10:37:32	/~lebarbet/DataCNIL/index.php	88.121.107.157		
+22-12-2023	10:37:37	/~lebarbet/DataCNIL/loaddelibs.php	88.121.107.157		2023
+03-01-2024	11:21:43	/~lebarbet/DataCNIL/index.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee			INRAE		FILTRER LES TEXTES	
+03-01-2024	11:21:56	/~lebarbet/DataCNIL/index.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee			Elixir		FILTRER LES TEXTES	
+03-01-2024	11:22:25	/~lebarbet/DataCNIL/index.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee			ELIXIR		FILTRER LES TEXTES	
+13-01-2024	20:21:28	/~lebarbet/DataCNIL/index.php	92.157.29.249		
+24-01-2024	12:43:28	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	
+24-01-2024	13:06:07	/DataCNIL/Zixuan/_DataCNIL/trace.php	::1	
+26-01-2024	13:23:53	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		
+26-01-2024	13:24:14	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+26-01-2024	13:24:22	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+26-01-2024	13:25:24	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+26-01-2024	13:25:34	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+26-01-2024	13:28:37	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+26-01-2024	13:29:01	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations				FILTRER LES TEXTES	
+26-01-2024	13:29:10	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations				FILTRER LES TEXTES	all
+26-01-2024	13:29:15	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations				FILTRER LES TEXTES	
+26-01-2024	13:29:16	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations				FILTRER LES TEXTES	
+26-01-2024	13:30:06	/DataCNIL/Zixuan/_DataCNIL/concord.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations				FILTRER LES TEXTES	
+26-01-2024	13:30:24	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations				FILTRER LES TEXTES	
+26-01-2024	13:33:50	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations				FILTRER LES TEXTES	all
+26-01-2024	15:19:25	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		
+26-01-2024	15:41:00	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		
+26-01-2024	15:42:04	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		all
+26-01-2024	15:42:17	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations				FILTRER LES TEXTES	
+26-01-2024	15:42:21	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations				FILTRER LES TEXTES	
+26-01-2024	15:42:26	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations				FILTRER LES TEXTES	all
+26-01-2024	15:42:36	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	AUTORISATION		JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations				FILTRER LES TEXTES	
+26-01-2024	15:42:41	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	AUTORISATION		JJ/MM/AAAA	JJ/MM/AAAA	annee	autorisations				FILTRER LES TEXTES	all
+26-01-2024	15:42:55	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+26-01-2024	15:43:00	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Effacer le filtre	all
+26-01-2024	15:43:31	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autorisation d'évaluation		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+26-01-2024	15:43:38	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autorisation d'évaluation		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+29-01-2024	13:05:55	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	AUTORISATION		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+29-01-2024	13:06:18	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	AUTORISATION		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+29-01-2024	18:47:12	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	AUTORISATION		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+29-01-2024	18:58:50	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	AUTORISATION		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+29-01-2024	18:58:57	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	AUTORISATION		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+29-01-2024	19:02:48	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	AUTORISATION		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+29-01-2024	19:04:31	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	AUTORISATION		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+29-01-2024	19:07:47	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	AUTORISATION		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+29-01-2024	19:08:05	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	AUTORISATION		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+29-01-2024	19:08:21	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	AUTORISATION		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+29-01-2024	19:09:15	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	AUTORISATION		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+29-01-2024	19:09:49	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	AUTORISATION		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+29-01-2024	19:10:38	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	AUTORISATION		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+29-01-2024	19:16:26	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	AUTORISATION		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+29-01-2024	19:20:23	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	AUTORISATION		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+29-01-2024	19:20:40	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	AUTORISATION		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+29-01-2024	19:23:14	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	AUTORISATION		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+29-01-2024	19:23:34	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+29-01-2024	19:23:57	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+29-01-2024	19:29:44	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+29-01-2024	19:32:44	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+29-01-2024	19:33:03	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+29-01-2024	19:34:31	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+29-01-2024	19:34:42	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+29-01-2024	19:34:49	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+29-01-2024	19:35:28	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+29-01-2024	19:35:38	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+29-01-2024	19:40:33	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+29-01-2024	19:41:36	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+29-01-2024	19:41:52	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	AUTORISATION		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+29-01-2024	19:42:02	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+29-01-2024	19:44:32	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+29-01-2024	19:46:01	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+29-01-2024	19:47:59	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+29-01-2024	19:51:26	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+30-01-2024	16:58:49	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	AUTORISATION		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+30-01-2024	16:58:58	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	AUTORISATION		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+30-01-2024	16:59:54	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+30-01-2024	17:00:01	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	AUTORISATION RECHERCHE		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+30-01-2024	17:00:06	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	AUTORISATION RECHERCHE		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+30-01-2024	17:06:18	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Contrôle.		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+30-01-2024	17:06:28	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Contrôle.		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+30-01-2024	17:06:39	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+30-01-2024	17:07:43	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		15/01/2024	01/02/2024	annee					FILTRER LES TEXTES	
+30-01-2024	17:07:45	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		15/01/2024	01/02/2024	annee					FILTRER LES TEXTES	
+30-01-2024	17:08:07	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		01/01/2024	01/02/2024	annee					FILTRER LES TEXTES	
+30-01-2024	17:08:42	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		01/09/2023	10/09/2023	annee					FILTRER LES TEXTES	
+30-01-2024	17:08:59	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		01/08/2023	10/09/2023	annee					FILTRER LES TEXTES	
+30-01-2024	17:09:09	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		01/08/2023	10/09/2023	mois					FILTRER LES TEXTES	
+30-01-2024	17:12:20	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+30-01-2024	17:12:40	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+30-01-2024	17:12:46	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+30-01-2024	17:17:35	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		01/12/2023	30/12/2023	annee			CNRS		FILTRER LES TEXTES	
+30-01-2024	17:17:45	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	
+30-01-2024	17:17:52	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	all
+30-01-2024	17:20:09	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	all
+30-01-2024	19:08:17	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+30-01-2024	19:10:04	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+30-01-2024	19:10:24	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+30-01-2024	19:11:06	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Label		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+30-01-2024	19:11:13	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Label		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+30-01-2024	19:11:19	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+30-01-2024	19:11:22	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+30-01-2024	19:13:02	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+30-01-2024	19:16:31	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Effacer le filtre	DATE
+30-01-2024	19:16:36	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Effacer le filtre	2023
+30-01-2024	19:16:40	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Effacer le filtre	DATE
+30-01-2024	19:18:04	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+30-01-2024	19:23:26	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	AUTORISATION		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+30-01-2024	19:25:13	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+30-01-2024	19:25:16	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+30-01-2024	19:25:32	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	
+30-01-2024	19:25:39	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	all
+30-01-2024	19:26:52	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	all
+30-01-2024	19:42:35	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	
+30-01-2024	19:42:42	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	
+30-01-2024	19:44:27	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	
+30-01-2024	19:44:32	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	
+30-01-2024	19:44:38	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	all
+30-01-2024	19:45:00	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	all
+30-01-2024	19:46:15	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	
+30-01-2024	19:47:32	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	
+30-01-2024	19:47:38	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	
+30-01-2024	19:48:40	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	
+30-01-2024	19:49:22	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	
+30-01-2024	19:49:26	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	
+30-01-2024	19:49:31	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	all
+30-01-2024	19:49:44	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	all
+30-01-2024	19:49:51	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	
+30-01-2024	19:50:00	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	
+30-01-2024	20:07:57	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	
+30-01-2024	20:09:15	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	
+30-01-2024	20:12:21	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	
+30-01-2024	20:12:25	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	
+30-01-2024	20:21:08	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	
+30-01-2024	20:22:08	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	
+30-01-2024	20:25:09	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	
+30-01-2024	20:25:34	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	
+30-01-2024	21:39:09	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	
+30-01-2024	21:40:11	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	all
+30-01-2024	21:41:12	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	all
+30-01-2024	21:41:26	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autorisation d'évaluation		01/12/2023	30/12/2023	annee					FILTRER LES TEXTES	
+30-01-2024	21:41:38	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autorisation d'évaluation				annee					FILTRER LES TEXTES	
+30-01-2024	21:41:51	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+30-01-2024	21:42:10	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+30-01-2024	21:42:24	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+30-01-2024	21:42:32	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+30-01-2024	21:42:53	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+30-01-2024	21:43:07	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+31-01-2024	15:03:31	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	all
+31-01-2024	15:03:39	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	AUTORISATION		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+31-01-2024	15:03:52	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	AUTORISATION		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	15:04:08	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+31-01-2024	15:04:17	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+31-01-2024	15:04:25	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	15:05:56	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+31-01-2024	15:16:35	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+31-01-2024	15:28:02	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+31-01-2024	15:29:02	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+31-01-2024	15:30:42	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+31-01-2024	15:31:39	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+31-01-2024	15:33:15	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	15:34:04	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	15:34:31	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	15:35:27	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+31-01-2024	15:35:36	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	15:41:36	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+31-01-2024	15:41:48	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+31-01-2024	15:41:56	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	15:42:14	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	15:48:19	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+31-01-2024	15:48:29	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	18:58:24	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+31-01-2024	18:58:33	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	18:59:02	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+31-01-2024	18:59:11	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	18:59:40	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	19:05:08	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	19:11:22	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+31-01-2024	19:12:14	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	19:12:16	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	19:15:45	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+31-01-2024	19:15:50	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+31-01-2024	19:16:00	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+31-01-2024	19:18:46	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+31-01-2024	19:18:54	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+31-01-2024	19:19:03	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	AUTORISATION RECHERCHE		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+31-01-2024	19:19:11	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	AUTORISATION RECHERCHE		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	19:19:32	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+31-01-2024	19:19:41	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	19:19:49	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	19:21:17	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+31-01-2024	19:21:25	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	19:21:28	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	19:23:00	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+31-01-2024	19:23:09	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	19:23:13	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	19:24:16	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+31-01-2024	19:24:24	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	19:24:26	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	19:25:12	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	19:25:20	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	19:26:09	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+31-01-2024	19:26:18	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	19:26:24	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	19:39:23	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	19:43:33	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+31-01-2024	19:43:42	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	19:54:11	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+31-01-2024	19:54:21	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	19:54:24	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	19:59:09	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+31-01-2024	19:59:38	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+31-01-2024	20:00:25	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	10:07:02	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	all
+02-02-2024	10:08:05	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	all
+02-02-2024	10:08:48	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		
+02-02-2024	10:09:27	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		all
+02-02-2024	10:09:30	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+02-02-2024	10:09:58	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+02-02-2024	10:10:22	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	10:10:28	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	10:16:28	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	10:18:13	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	10:20:49	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+02-02-2024	10:21:07	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	10:21:09	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	10:21:58	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	10:21:59	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	10:22:00	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	10:22:01	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	10:22:02	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	10:23:04	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	10:23:09	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+02-02-2024	10:23:24	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	10:23:37	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	10:24:38	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	10:24:41	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	10:24:44	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	10:25:39	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	10:28:43	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+02-02-2024	10:28:56	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+02-02-2024	10:29:09	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	10:33:59	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	10:34:03	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	10:46:32	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	10:46:45	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+02-02-2024	10:46:59	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	10:47:09	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	11:02:15	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+02-02-2024	11:04:12	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+02-02-2024	11:05:03	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	11:05:07	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	11:07:45	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	11:07:50	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+02-02-2024	11:09:02	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	11:11:23	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+02-02-2024	11:12:12	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	11:12:15	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	11:18:03	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+02-02-2024	11:22:11	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+02-02-2024	11:22:40	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	11:27:20	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	11:30:03	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	11:32:55	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	11:33:07	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+02-02-2024	11:33:22	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	11:33:24	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	11:33:53	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	11:35:29	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	11:48:49	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	11:53:09	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	11:53:10	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	11:53:25	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	11:54:04	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	11:54:05	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	11:57:11	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+02-02-2024	11:57:34	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	11:57:38	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	11:59:09	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	12:01:02	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	12:11:10	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	12:14:47	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	12:15:15	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	12:17:44	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	12:18:31	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	12:19:08	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	12:19:53	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	12:20:06	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	12:20:46	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	12:20:47	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	12:21:01	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	12:21:06	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+02-02-2024	12:21:21	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	12:21:47	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	13:20:41	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	13:23:30	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+02-02-2024	13:25:21	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+04-02-2024	15:34:19	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+04-02-2024	15:34:38	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+04-02-2024	15:35:33	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+04-02-2024	15:37:31	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+04-02-2024	15:38:13	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+04-02-2024	15:38:27	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+04-02-2024	15:38:38	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+04-02-2024	15:38:42	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+04-02-2024	15:39:08	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+04-02-2024	15:39:11	/DataCNIL/Zixuan/_DataCNIL/ai.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+04-02-2024	15:39:46	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+04-02-2024	15:41:13	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+04-02-2024	15:41:15	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+04-02-2024	15:42:43	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+04-02-2024	15:45:19	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+04-02-2024	15:45:46	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Effacer le filtre	all
+04-02-2024	15:45:53	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+04-02-2024	15:46:04	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	13:12:20	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+05-02-2024	13:12:40	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	13:12:44	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	13:14:46	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+05-02-2024	13:27:43	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+05-02-2024	13:28:10	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+05-02-2024	13:28:17	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+05-02-2024	13:28:25	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+05-02-2024	13:46:39	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+05-02-2024	13:47:22	/DataCNIL/Zixuan/_DataCNIL/concord.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+05-02-2024	13:47:32	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+05-02-2024	13:47:57	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+05-02-2024	13:48:40	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+05-02-2024	13:48:59	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+05-02-2024	13:49:09	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+05-02-2024	13:49:51	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+05-02-2024	13:50:26	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+05-02-2024	13:51:14	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+05-02-2024	13:52:21	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+05-02-2024	13:53:06	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+05-02-2024	13:53:54	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+05-02-2024	13:54:30	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+05-02-2024	13:55:06	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+05-02-2024	13:55:36	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+05-02-2024	13:56:18	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+05-02-2024	13:57:41	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+05-02-2024	13:58:24	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+05-02-2024	14:00:03	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+05-02-2024	14:00:09	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+05-02-2024	14:16:26	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+05-02-2024	14:16:36	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:18:22	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:18:23	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:18:33	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:18:35	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:18:38	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:22:40	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:22:42	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:22:52	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:22:52	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:22:53	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:25:31	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+05-02-2024	14:25:40	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+05-02-2024	14:25:46	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:25:47	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:25:49	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:25:52	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:26:40	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:26:44	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:26:50	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:27:00	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:27:02	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:27:03	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:27:04	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:27:07	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:33:38	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+05-02-2024	14:33:47	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:33:49	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:35:07	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:35:13	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:35:14	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:36:19	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:36:23	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+05-02-2024	14:36:31	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:36:33	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:36:39	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:36:41	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:36:43	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:37:08	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:37:09	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:38:17	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:38:18	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:38:24	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:38:25	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:38:28	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:38:36	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	AUTORISATION RECHERCHE		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+05-02-2024	14:38:43	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	AUTORISATION RECHERCHE		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:38:48	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+05-02-2024	14:38:54	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	AUTORISATION RECHERCHE	Contrôle.		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+05-02-2024	14:39:03	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	AUTORISATION RECHERCHE	Contrôle.		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:39:07	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+05-02-2024	14:39:20	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+05-02-2024	14:39:28	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:39:30	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:46:16	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:46:18	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:49:23	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:49:24	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:49:26	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:49:27	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:50:38	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:50:38	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:50:39	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:50:39	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:50:39	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:50:40	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:50:40	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:50:40	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:50:40	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:50:41	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:51:26	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:51:27	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:52:28	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:52:29	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:52:30	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:52:30	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:52:30	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:52:31	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:52:31	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:52:31	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:52:32	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:52:38	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+05-02-2024	14:53:05	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:53:06	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:53:56	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:53:56	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:54:17	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:56:23	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:56:24	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:56:27	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	14:56:28	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	17:02:12	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+05-02-2024	17:02:30	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	17:02:32	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	17:04:42	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	17:04:45	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	17:04:46	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	17:04:46	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	17:04:47	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	17:04:47	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	17:04:48	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	17:06:00	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	17:15:34	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	17:15:48	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	17:15:50	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	17:16:01	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	17:16:03	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	17:16:04	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	17:16:05	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	17:16:05	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	17:18:08	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	17:19:08	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	17:19:22	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	17:40:36	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:17:17	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:17:23	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:17:23	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:17:24	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:17:35	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:25:33	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:29:36	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:38:10	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:38:17	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:39:49	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:42:20	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:42:24	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:42:25	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:42:25	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:42:45	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:42:47	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:42:54	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:43:05	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:43:51	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:43:57	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+05-02-2024	18:46:33	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:46:34	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:46:38	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:46:38	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:46:39	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:46:39	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:46:39	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:46:39	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:46:42	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+05-02-2024	18:47:37	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:47:44	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:47:48	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:47:50	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:47:50	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:47:54	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:47:56	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:47:56	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:47:57	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:47:57	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:48:21	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:49:38	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:54:18	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:54:19	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:56:08	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:56:11	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:59:31	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:59:32	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	18:59:45	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	19:01:27	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	19:01:33	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	19:02:39	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	19:03:57	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+05-02-2024	19:04:47	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+06-02-2024	13:52:02	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	AUTORISATION RECHERCHE		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+06-02-2024	13:52:35	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	AUTORISATION RECHERCHE		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+06-02-2024	13:52:40	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+06-02-2024	13:52:55	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+06-02-2024	13:53:00	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+06-02-2024	13:53:16	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+06-02-2024	13:53:36	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+06-02-2024	13:53:38	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+06-02-2024	13:54:08	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+06-02-2024	13:54:50	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+06-02-2024	13:55:12	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+06-02-2024	13:55:57	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+06-02-2024	13:56:55	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+06-02-2024	13:57:13	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+06-02-2024	13:57:24	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+06-02-2024	13:58:37	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+06-02-2024	13:58:39	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+06-02-2024	13:58:53	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+06-02-2024	14:08:58	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+06-02-2024	14:09:00	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+06-02-2024	14:10:18	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+06-02-2024	14:13:19	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+06-02-2024	14:13:20	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+06-02-2024	14:13:45	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+06-02-2024	14:16:16	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+06-02-2024	14:16:17	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+06-02-2024	14:18:58	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+06-02-2024	14:19:41	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+07-02-2024	07:51:30	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee	CNRS AND C.N.R.S.				FILTRER LES TEXTES	
+07-02-2024	07:51:47	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee	CNRS AND C.N.R.S.				FILTRER LES TEXTES	all
+07-02-2024	07:51:55	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee	CNRS AND C.N.R.S.				FILTRER LES TEXTES	all
+07-02-2024	07:51:58	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee	CNRS				FILTRER LES TEXTES	
+07-02-2024	07:52:11	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee	CNRS				FILTRER LES TEXTES	all
+07-02-2024	07:52:16	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee	CNRS				FILTRER LES TEXTES	all
+07-02-2024	07:52:27	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+07-02-2024	07:52:49	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		
+07-02-2024	08:16:11	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+07-02-2024	08:16:24	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+07-02-2024	08:16:56	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+07-02-2024	08:17:49	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+07-02-2024	08:19:13	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+07-02-2024	08:19:38	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+07-02-2024	08:19:48	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+07-02-2024	08:20:03	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+07-02-2024	08:20:32	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+07-02-2024	08:20:50	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+07-02-2024	08:21:18	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+07-02-2024	08:22:03	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+07-02-2024	08:23:06	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	2018
+07-02-2024	08:23:51	/DataCNIL/Zixuan/_DataCNIL/concord.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+07-02-2024	08:32:49	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	2018
+07-02-2024	08:37:07	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	2018
+07-02-2024	08:56:48	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+07-02-2024	08:57:18	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+07-02-2024	09:27:01	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	2018
+07-02-2024	09:27:42	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	2018
+07-02-2024	09:38:34	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	2018
+07-02-2024	09:38:48	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	2018
+07-02-2024	09:39:12	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	2018
+07-02-2024	09:39:25	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	2018
+07-02-2024	16:07:35	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	
+07-02-2024	16:50:43	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee						FILTRER LES TEXTES	
+07-02-2024	16:50:59	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee						FILTRER LES TEXTES	all
+07-02-2024	16:51:14	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee						FILTRER LES TEXTES	all
+07-02-2024	17:18:31	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee						FILTRER LES TEXTES	all
+07-02-2024	17:24:36	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee						FILTRER LES TEXTES	all
+07-02-2024	17:25:56	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee						FILTRER LES TEXTES	all
+07-02-2024	17:28:23	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee						FILTRER LES TEXTES	all
+07-02-2024	17:28:32	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee						FILTRER LES TEXTES	all
+07-02-2024	17:30:37	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee						FILTRER LES TEXTES	all
+07-02-2024	17:30:38	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee						FILTRER LES TEXTES	all
+07-02-2024	17:41:48	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee						FILTRER LES TEXTES	all
+07-02-2024	17:45:59	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee						FILTRER LES TEXTES	all
+07-02-2024	17:46:40	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee						FILTRER LES TEXTES	all
+07-02-2024	17:47:21	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee						FILTRER LES TEXTES	all
+07-02-2024	17:51:56	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee						FILTRER LES TEXTES	all
+07-02-2024	17:55:36	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+07-02-2024	17:56:06	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+07-02-2024	17:56:28	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+07-02-2024	17:56:29	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	13:52:48	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee						FILTRER LES TEXTES	
+11-02-2024	13:55:01	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+11-02-2024	13:55:10	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	13:55:13	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	13:55:55	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:00:53	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:04:29	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:05:53	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:06:30	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:06:32	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:07:16	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:07:47	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:07:48	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:08:02	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:09:41	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:11:53	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:11:54	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:13:48	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:13:49	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:15:07	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:17:00	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:17:30	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:18:00	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:18:50	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:18:52	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:18:53	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:21:39	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:21:41	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:38:19	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:38:25	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:39:23	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:40:18	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:40:27	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:40:29	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:42:03	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:42:12	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+11-02-2024	14:42:22	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:42:24	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:43:14	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:46:18	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:49:17	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:49:32	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:49:34	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:49:35	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:49:36	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:49:36	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:49:36	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:49:36	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:49:36	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:54:54	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:55:01	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:55:03	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:55:13	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:55:14	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	14:56:16	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	15:02:24	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	15:02:26	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	15:03:15	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	15:03:48	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	15:03:59	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	15:04:32	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	15:06:15	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	15:08:16	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	15:21:04	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+11-02-2024	15:33:32	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+11-02-2024	15:33:49	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+11-02-2024	16:00:00	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+11-02-2024	16:01:10	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+11-02-2024	16:01:55	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+11-02-2024	16:02:57	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Norme simplifiée		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+11-02-2024	16:03:06	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Norme simplifiée		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	16:03:18	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Label	Norme simplifiée		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+11-02-2024	16:03:30	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Label	Norme simplifiée		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+11-02-2024	16:04:36	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Label	Norme simplifiée		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+11-02-2024	16:04:56	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+11-02-2024	16:05:28	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+11-02-2024	16:07:25	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+11-02-2024	16:18:38	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+11-02-2024	16:19:50	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+11-02-2024	16:20:18	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	
+11-02-2024	16:24:29	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+11-02-2024	16:24:43	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	DATE
+11-02-2024	16:36:53	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	DATE
+11-02-2024	17:10:05	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+11-02-2024	17:10:51	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Autre		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	DATE
+11-02-2024	17:12:18	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Autre		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+11-02-2024	17:12:35	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Label		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+11-02-2024	17:13:03	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Label		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+11-02-2024	17:13:55	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Label		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+12-02-2024	12:40:48	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		
+12-02-2024	12:41:09	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Contrôle.		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+12-02-2024	12:41:23	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Contrôle.		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+12-02-2024	12:41:45	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Parquet		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+12-02-2024	12:41:55	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Parquet		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+12-02-2024	12:41:57	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Parquet		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+12-02-2024	12:42:05	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	MEMBRES ET AGENTS		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+12-02-2024	12:42:16	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	MEMBRES ET AGENTS		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+12-02-2024	12:42:20	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	MEMBRES ET AGENTS		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+12-02-2024	12:42:52	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			autorisation		FILTRER LES TEXTES	
+12-02-2024	12:43:08	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			autorisation		FILTRER LES TEXTES	all
+12-02-2024	12:44:04	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			autorisation		FILTRER LES TEXTES	all
+12-02-2024	12:44:28	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			autorisation		FILTRER LES TEXTES	
+12-02-2024	12:44:51	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+12-02-2024	12:45:07	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	12:45:10	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	14:31:28	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	14:32:28	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	14:33:11	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	14:34:55	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	14:36:10	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	14:53:37	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	14:56:30	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	15:23:27	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	15:24:45	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	15:26:38	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	15:27:40	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	15:28:17	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	15:28:44	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	15:54:06	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:00:24	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:05:42	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:06:48	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:07:30	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:09:36	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:13:02	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:16:30	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:17:31	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:19:48	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:21:20	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:25:06	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:25:30	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:25:45	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:26:13	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:26:41	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:27:01	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:27:05	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:27:13	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:27:37	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:28:02	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:28:19	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:28:22	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:31:26	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:31:29	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:32:33	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:52:39	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:55:51	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:56:20	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	16:56:51	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	17:00:45	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	17:01:22	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	17:08:56	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+12-02-2024	17:09:12	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	13:54:01	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		
+13-02-2024	13:55:35	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Parquet		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+13-02-2024	13:55:50	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Parquet		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+13-02-2024	13:55:57	/DataCNIL/Zixuan/_DataCNIL/index.php	::1	Clôture		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	
+13-02-2024	13:56:09	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Clôture		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+13-02-2024	13:56:12	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Clôture		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+13-02-2024	13:57:36	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Clôture		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+13-02-2024	13:57:42	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Clôture		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+13-02-2024	13:57:59	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Clôture		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+13-02-2024	13:58:05	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Clôture		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+13-02-2024	13:58:36	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Clôture		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+13-02-2024	13:59:21	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Clôture		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+13-02-2024	14:00:04	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Clôture		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+13-02-2024	14:01:27	/DataCNIL/Zixuan/_DataCNIL/wordcloud.php	::1	Clôture		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+13-02-2024	14:02:19	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1	Clôture		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+13-02-2024	14:02:21	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1	Clôture		JJ/MM/AAAA	JJ/MM/AAAA	annee					FILTRER LES TEXTES	all
+13-02-2024	14:02:44	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	
+13-02-2024	14:02:58	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	14:03:01	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	14:04:22	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	14:05:04	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	14:05:51	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	14:06:19	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	14:07:34	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	14:08:38	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	14:08:59	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	14:09:35	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	14:10:01	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	14:13:20	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	14:15:25	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	14:24:23	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	14:25:05	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	14:31:05	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	14:31:53	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	14:31:59	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	14:33:38	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	14:34:10	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	14:34:18	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	14:34:23	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	14:35:43	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	14:38:38	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	14:39:57	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	14:40:32	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	14:41:04	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	14:55:59	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	14:56:57	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:10:36	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:12:24	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:13:27	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:15:32	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:18:05	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:18:25	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:18:58	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:26:21	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:27:09	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:28:29	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:30:31	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:30:50	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:33:29	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:34:04	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:35:32	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:36:51	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:36:54	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:37:02	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:38:18	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:38:24	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:40:29	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:41:55	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:42:21	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:45:03	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:45:12	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:45:16	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:45:43	/DataCNIL/Zixuan/_DataCNIL/loaddelibs.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:45:46	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:48:51	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+13-02-2024	15:52:09	/DataCNIL/Zixuan/_DataCNIL/classificateur.php	::1		JJ/MM/AAAA	JJ/MM/AAAA	annee			CNRS		FILTRER LES TEXTES	all
+14-02-2024	13:05:49	/DataCNIL/Zixuan/_DataCNIL/index.php	::1		
+20-02-2024	18:34:51	/~perlicv/index.php	147.171.172.161		
+20-02-2024	18:36:54	/~perlicv/index.php	147.171.172.161		
+20-02-2024	18:38:38	/~perlicv/index.php	147.171.172.161		
+20-02-2024	18:39:53	/~perlicv/index.php	147.171.172.161		
+20-02-2024	18:39:59	/~perlicv/index.php	147.171.172.161		
+20-02-2024	18:41:25	/~perlicv/index.php	35.237.4.214		
+20-02-2024	18:42:06	/~perlicv/index.php	78.243.70.143		
+20-02-2024	18:43:53	/~perlicv/index.php	78.243.70.143		
+20-02-2024	18:44:01	/~perlicv/index.php	78.243.70.143	Autorisation d'évaluation		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	
+20-02-2024	18:44:03	/~perlicv/loaddelibs.php	78.243.70.143	Autorisation d'évaluation		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	all
+20-02-2024	18:44:08	/~perlicv/wordcloud.php	78.243.70.143	Autorisation d'évaluation		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	all
+20-02-2024	18:44:20	/~perlicv/index.php	78.243.70.143		JJ/MM/AAAA	JJ/MM/AAAA	annee	CNRS						FILTRER LES TEXTES	
+20-02-2024	18:44:24	/~perlicv/loaddelibs.php	78.243.70.143		JJ/MM/AAAA	JJ/MM/AAAA	annee	CNRS						FILTRER LES TEXTES	all
+20-02-2024	18:44:26	/~perlicv/wordcloud.php	78.243.70.143		JJ/MM/AAAA	JJ/MM/AAAA	annee	CNRS						FILTRER LES TEXTES	all
+20-02-2024	18:44:32	/~perlicv/loaddelibs.php	78.243.70.143		JJ/MM/AAAA	JJ/MM/AAAA	annee	CNRS						FILTRER LES TEXTES	all
+20-02-2024	18:44:33	/~perlicv/classificateur.php	78.243.70.143		JJ/MM/AAAA	JJ/MM/AAAA	annee	CNRS						FILTRER LES TEXTES	all
+20-02-2024	18:44:36	/~perlicv/classify_helper.php	78.243.70.143		JJ/MM/AAAA	JJ/MM/AAAA	annee	CNRS						FILTRER LES TEXTES	profile	all
+20-02-2024	18:44:37	/~perlicv/classify_helper.php	78.243.70.143		JJ/MM/AAAA	JJ/MM/AAAA	annee	CNRS						FILTRER LES TEXTES	contact	all
+20-02-2024	18:44:38	/~perlicv/classify_helper.php	78.243.70.143		JJ/MM/AAAA	JJ/MM/AAAA	annee	CNRS						FILTRER LES TEXTES	neutre	all
+20-02-2024	18:47:01	/~perlicv/index.php	78.243.70.143		JJ/MM/AAAA	JJ/MM/AAAA	annee	CNRS						FILTRER LES TEXTES	
+20-02-2024	18:47:17	/~perlicv/index.php	78.243.70.143		JJ/MM/AAAA	JJ/MM/AAAA	annee	CNRS						FILTRER LES TEXTES	
+20-02-2024	18:47:27	/~perlicv/index.php	78.243.70.143		JJ/MM/AAAA	JJ/MM/AAAA	annee	CNRS						FILTRER LES TEXTES	
+20-02-2024	18:47:36	/~perlicv/index.php	78.243.70.143		JJ/MM/AAAA	JJ/MM/AAAA	annee	CNRS						FILTRER LES TEXTES	
+20-02-2024	18:47:45	/~perlicv/index.php	78.243.70.143		JJ/MM/AAAA	JJ/MM/AAAA	annee	CNRS						FILTRER LES TEXTES	
+20-02-2024	18:48:49	/~perlicv/index.php	78.243.70.143		JJ/MM/AAAA	JJ/MM/AAAA	annee	CNRS						FILTRER LES TEXTES	
+20-02-2024	18:49:08	/~perlicv/index.php	78.243.70.143		JJ/MM/AAAA	JJ/MM/AAAA	annee	CNRS						FILTRER LES TEXTES	
+20-02-2024	18:50:41	/~perlicv/index.php	78.243.70.143		
+20-02-2024	18:51:01	/~perlicv/index.php	78.243.70.143		JJ/MM/AAAA	JJ/MM/AAAA	annee					CNRS		FILTRER LES TEXTES	
+20-02-2024	18:55:45	/~perlicv/index.php	78.243.70.143		JJ/MM/AAAA	JJ/MM/AAAA	annee					CNRS		FILTRER LES TEXTES	
+20-02-2024	18:56:05	/~perlicv/index.php	147.171.172.161		
+20-02-2024	18:58:45	/~perlicv/index.php	78.243.70.143		JJ/MM/AAAA	JJ/MM/AAAA	annee					CNRS		FILTRER LES TEXTES	
+20-02-2024	18:59:54	/~perlicv/index.php	78.243.70.143		JJ/MM/AAAA	JJ/MM/AAAA	annee					CNRS		FILTRER LES TEXTES	
+20-02-2024	18:59:58	/~perlicv/index.php	78.243.70.143		JJ/MM/AAAA	JJ/MM/AAAA	annee					CNRS		FILTRER LES TEXTES	
+20-02-2024	18:59:59	/~perlicv/loaddelibs.php	78.243.70.143		JJ/MM/AAAA	JJ/MM/AAAA	annee					CNRS		FILTRER LES TEXTES	all
+20-02-2024	19:00:02	/~perlicv/wordcloud.php	78.243.70.143		JJ/MM/AAAA	JJ/MM/AAAA	annee					CNRS		FILTRER LES TEXTES	all
+20-02-2024	19:05:52	/~perlicv/index.php	147.171.172.161		
+20-02-2024	19:06:50	/~perlicv/index.php	147.171.172.161		
+20-02-2024	21:33:27	/~perlicv/index.php	147.171.172.161		
+20-02-2024	21:33:30	/~perlicv/index.php	147.171.172.161		
+20-02-2024	21:33:45	/~perlicv/index.php	147.171.172.161		
+20-02-2024	21:34:17	/~perlicv/index.php	147.171.172.161		
+20-02-2024	21:34:25	/~perlicv/index.php	147.171.172.161		JJ/MM/AAAA	JJ/MM/AAAA	annee	cnrs						FILTRER LES TEXTES	
+20-02-2024	21:34:29	/~perlicv/loaddelibs.php	147.171.172.161		JJ/MM/AAAA	JJ/MM/AAAA	annee	cnrs						FILTRER LES TEXTES	2014
+20-02-2024	21:34:35	/~perlicv/classificateur.php	147.171.172.161		JJ/MM/AAAA	JJ/MM/AAAA	annee	cnrs						FILTRER LES TEXTES	all
+20-02-2024	21:34:39	/~perlicv/wordcloud.php	147.171.172.161		JJ/MM/AAAA	JJ/MM/AAAA	annee	cnrs						FILTRER LES TEXTES	all
+20-02-2024	21:36:04	/~perlicv/loaddelibs.php	147.171.172.161		JJ/MM/AAAA	JJ/MM/AAAA	annee	cnrs						FILTRER LES TEXTES	all
+20-02-2024	21:40:58	/~perlicv/index.php	147.171.172.161		
+22-02-2024	13:10:46	/~perlicv/index.php	147.171.173.65		
+22-02-2024	13:12:56	/~perlicv/index.php	147.171.173.65		
+22-02-2024	13:14:44	/~perlicv/trace.php	147.171.173.65	
+22-02-2024	13:27:22	/~perlicv/index.php	147.171.173.65		
+22-02-2024	13:43:54	/~perlicv/index.php	147.171.173.65		
+22-02-2024	13:45:13	/~perlicv/index.php	37.170.169.188		
+22-02-2024	13:50:52	/~perlicv/index.php	147.171.173.65		
+22-02-2024	13:50:52	/~perlicv/index.php	147.171.173.65		
+22-02-2024	13:50:52	/~perlicv/index.php	147.171.173.65		
+22-02-2024	14:04:42	/~perlicv/index.php	147.171.173.65		
+22-02-2024	14:05:07	/~perlicv/index.php	35.237.4.214		
+22-02-2024	14:05:12	/~perlicv/index.php	37.170.169.188		
+22-02-2024	14:05:44	/~perlicv/index.php	147.171.173.65		
+22-02-2024	14:07:57	/~perlicv/index.php	147.171.173.65		
+22-02-2024	14:12:28	/~perlicv/index.php	147.171.173.65		
+22-02-2024	14:13:47	/~perlicv/index.php	147.171.173.65		
+22-02-2024	14:13:51	/~perlicv/index.php	147.171.173.65		
+22-02-2024	14:17:27	/~perlicv/index.php	37.170.169.188		
+22-02-2024	14:20:16	/~perlicv/index.php	147.171.173.65		
+22-02-2024	14:26:10	/~perlicv/index.php	37.170.169.188		
+22-02-2024	14:27:34	/~perlicv/index.php	147.171.173.65		
+22-02-2024	14:27:34	/~perlicv/index.php	147.171.173.65		
+22-02-2024	14:27:34	/~perlicv/index.php	147.171.173.65		
+22-02-2024	14:28:09	/~perlicv/index.php	147.171.173.65		
+22-02-2024	14:28:18	/~perlicv/index.php	147.171.173.65		
+22-02-2024	14:28:23	/~perlicv/loaddelibs.php	147.171.173.65		all
+22-02-2024	14:29:50	/~perlicv/index.php	147.171.173.65		
+22-02-2024	14:29:58	/~perlicv/loaddelibs.php	147.171.173.65		1995
+22-02-2024	14:30:01	/~perlicv/loaddelibs.php	147.171.173.65		all
+22-02-2024	14:32:55	/~perlicv/index.php	147.171.173.65		
+22-02-2024	14:33:08	/~perlicv/index.php	147.171.173.65		
+22-02-2024	14:34:17	/~perlicv/index.php	147.171.173.65		
+22-02-2024	14:37:29	/~perlicv/index.php	147.171.173.65		
+22-02-2024	14:38:13	/~perlicv/index.php	147.171.173.65		
+22-02-2024	14:40:45	/~perlicv/index.php	147.171.173.65		
+22-02-2024	14:41:05	/~perlicv/index.php	147.171.173.65		
+22-02-2024	14:42:09	/~perlicv/index.php	147.171.173.65		
+22-02-2024	14:42:34	/~perlicv/loaddelibs.php	147.171.173.65		all
+22-02-2024	14:42:50	/~perlicv/index.php	147.171.173.65		JJ/MM/AAAA	JJ/MM/AAAA	annee	cnrs						FILTRER LES TEXTES	
+22-02-2024	15:05:12	/~perlicv/index.php	152.81.28.136		
+22-02-2024	15:05:28	/~perlicv/loaddelibs.php	152.81.28.136		2022
+22-02-2024	15:05:35	/~perlicv/loaddelibs.php	152.81.28.136		2017
+22-02-2024	15:05:43	/~perlicv/index.php	152.81.28.136	Autorisation d'évaluation		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	
+22-02-2024	15:05:45	/~perlicv/loaddelibs.php	152.81.28.136	Autorisation d'évaluation		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	2017
+22-02-2024	15:06:05	/~perlicv/index.php	152.81.28.136		
+22-02-2024	15:22:44	/~perlicv/index.php	152.81.28.136		
+22-02-2024	15:22:47	/~perlicv/loaddelibs.php	152.81.28.136		2022
+22-02-2024	15:26:44	/~perlicv/index.php	152.81.28.136		
+22-02-2024	16:00:04	/~perlicv/index.php	46.114.233.7		
+22-02-2024	16:01:36	/~perlicv/index.php	46.114.233.7		
+22-02-2024	16:46:59	/~perlicv/index.php	147.171.178.175		
+22-02-2024	16:47:44	/~perlicv/index.php	35.227.62.178		
+22-02-2024	17:09:20	/~perlicv/index.php	147.171.178.175		
+22-02-2024	18:07:45	/~perlicv/index.php	147.171.178.175		
+23-02-2024	00:20:07	/~perlicv/index.php	147.171.173.55		
+23-02-2024	00:22:26	/~perlicv/index.php	147.171.173.55		
+23-02-2024	00:24:23	/~perlicv/index.php	35.227.62.178		
+23-02-2024	00:27:18	/~perlicv/index.php	147.171.173.55		
+23-02-2024	00:31:29	/~perlicv/index.php	147.171.173.55		
+23-02-2024	00:32:40	/~perlicv/index.php	147.171.173.55		
+23-02-2024	00:34:32	/~perlicv/index.php	147.171.173.55		
+23-02-2024	00:35:26	/~perlicv/index.php	147.171.173.55		
+23-02-2024	00:39:45	/~perlicv/index.php	147.171.173.55		
+23-02-2024	00:42:22	/~perlicv/index.php	147.171.173.55		
+23-02-2024	00:57:18	/~perlicv/index.php	147.171.173.55		
+23-02-2024	09:43:27	/~perlicv/index.php	147.171.173.98		
+23-02-2024	10:08:28	/~perlicv/index.php	147.171.173.90		
+23-02-2024	10:22:26	/~perlicv/index.php	147.171.173.90		
+23-02-2024	10:22:31	/~perlicv/update_database.php	147.171.173.90		
+23-02-2024	10:27:00	/~perlicv/update_database.php	147.171.173.90		
+23-02-2024	10:30:16	/~perlicv/update_database.php	147.171.173.90		
+23-02-2024	10:33:32	/~perlicv/update_database.php	147.171.173.90		
+23-02-2024	10:36:47	/~perlicv/update_database.php	147.171.173.90		
+23-02-2024	10:40:03	/~perlicv/index.php	147.171.173.90		
+23-02-2024	10:40:04	/~perlicv/index.php	147.171.173.90		
+23-02-2024	10:40:04	/~perlicv/update_database.php	147.171.173.90		
+23-02-2024	10:40:04	/~perlicv/index.php	147.171.173.90		
+23-02-2024	10:44:04	/~perlicv/index.php	147.171.173.90		
+23-02-2024	10:46:22	/~perlicv/index.php	147.171.173.90		
+23-02-2024	10:46:29	/~perlicv/index.php	147.171.173.90		
+23-02-2024	10:47:46	/~perlicv/index.php	147.171.173.90		
+23-02-2024	10:48:43	/~perlicv/index.php	147.171.173.90		
+23-02-2024	10:48:54	/~perlicv/index.php	35.196.132.85		
+23-02-2024	10:49:43	/~perlicv/index.php	78.241.108.10		
+23-02-2024	10:49:47	/~perlicv/index.php	78.241.108.10		
+23-02-2024	10:49:58	/~perlicv/index.php	78.241.108.10		
+23-02-2024	10:49:58	/~perlicv/loaddelibs.php	147.171.173.90		all
+23-02-2024	10:50:07	/~perlicv/index.php	147.171.173.90	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	
+23-02-2024	10:50:09	/~perlicv/loaddelibs.php	147.171.173.90	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	all
+23-02-2024	10:51:01	/~perlicv/loaddelibs.php	147.171.173.90	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	2017
+23-02-2024	10:53:02	/~perlicv/index.php	147.171.173.90	DECISION	JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	
+23-02-2024	10:53:06	/~perlicv/update_database.php	147.171.173.90		
+23-02-2024	10:53:27	/~perlicv/index.php	147.171.173.90		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	
+23-02-2024	10:53:44	/~perlicv/update_database.php	147.171.173.90		
+23-02-2024	10:54:18	/~perlicv/update_database.php	147.171.173.90		
+23-02-2024	10:54:20	/~perlicv/index.php	78.241.108.10		
+23-02-2024	10:54:24	/~perlicv/index.php	78.241.108.10	Autre		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	
+23-02-2024	10:54:26	/~perlicv/update_database.php	147.171.173.90		
+23-02-2024	10:54:26	/~perlicv/loaddelibs.php	78.241.108.10	Autre		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	all
+23-02-2024	10:54:29	/~perlicv/wordcloud.php	78.241.108.10	Autre		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	all
+23-02-2024	10:54:43	/~perlicv/loaddelibs.php	78.241.108.10	Autre		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	all
+23-02-2024	10:54:45	/~perlicv/classificateur.php	78.241.108.10	Autre		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	all
+23-02-2024	10:55:53	/~perlicv/index.php	88.121.107.157		
+23-02-2024	10:56:21	/~perlicv/loaddelibs.php	88.121.107.157		2023
+23-02-2024	10:56:23	/~perlicv/index.php	147.171.173.90		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	
+23-02-2024	10:56:52	/~perlicv/loaddelibs.php	88.121.107.157		2017
+23-02-2024	10:56:55	/~perlicv/index.php	78.241.108.10		
+23-02-2024	10:57:00	/~perlicv/index.php	78.241.108.10	Autre		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	
+23-02-2024	10:57:01	/~perlicv/loaddelibs.php	78.241.108.10	Autre		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	all
+23-02-2024	10:57:03	/~perlicv/classificateur.php	78.241.108.10	Autre		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	all
+23-02-2024	10:57:06	/~perlicv/index.php	88.121.107.157		
+23-02-2024	10:57:09	/~perlicv/loaddelibs.php	88.121.107.157		2023
+23-02-2024	10:57:20	/~perlicv/index.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee	CNRS						FILTRER LES TEXTES	
+23-02-2024	10:57:23	/~perlicv/loaddelibs.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee	CNRS						FILTRER LES TEXTES	2020
+23-02-2024	10:57:31	/~perlicv/loaddelibs.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee	CNRS						FILTRER LES TEXTES	2017
+23-02-2024	10:57:38	/~perlicv/wordcloud.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee	CNRS						FILTRER LES TEXTES	all
+23-02-2024	10:57:46	/~perlicv/classificateur.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee	CNRS						FILTRER LES TEXTES	all
+23-02-2024	10:58:16	/~perlicv/index.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	
+23-02-2024	10:58:19	/~perlicv/loaddelibs.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	2023
+23-02-2024	10:58:26	/~perlicv/classificateur.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	all
+23-02-2024	10:59:15	/~perlicv/index.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee	INRIA						FILTRER LES TEXTES	
+23-02-2024	10:59:19	/~perlicv/loaddelibs.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee	INRIA						FILTRER LES TEXTES	2021
+23-02-2024	10:59:57	/~perlicv/loaddelibs.php	88.121.107.157		JJ/MM/AAAA	JJ/MM/AAAA	annee	INRIA						FILTRER LES TEXTES	2020
+23-02-2024	11:00:27	/~perlicv/index.php	78.241.108.10	Autre		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	
+23-02-2024	11:00:29	/~perlicv/loaddelibs.php	78.241.108.10	Autre		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	all
+23-02-2024	11:00:32	/~perlicv/wordcloud.php	78.241.108.10	Autre		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	all
+23-02-2024	11:01:48	/~perlicv/index.php	78.241.108.10	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	
+23-02-2024	11:01:49	/~perlicv/loaddelibs.php	78.241.108.10	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	all
+23-02-2024	11:01:51	/~perlicv/wordcloud.php	78.241.108.10	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	all
+23-02-2024	11:02:01	/~perlicv/index.php	78.241.108.10		JJ/MM/AAAA	JJ/MM/AAAA	annee					CNRS		FILTRER LES TEXTES	
+23-02-2024	11:02:03	/~perlicv/loaddelibs.php	78.241.108.10		JJ/MM/AAAA	JJ/MM/AAAA	annee					CNRS		FILTRER LES TEXTES	all
+23-02-2024	11:02:05	/~perlicv/wordcloud.php	78.241.108.10		JJ/MM/AAAA	JJ/MM/AAAA	annee					CNRS		FILTRER LES TEXTES	all
+23-02-2024	11:02:12	/~perlicv/index.php	78.241.108.10		JJ/MM/AAAA	JJ/MM/AAAA	annee					CNRS		FILTRER LES TEXTES	
+23-02-2024	11:02:14	/~perlicv/loaddelibs.php	78.241.108.10		JJ/MM/AAAA	JJ/MM/AAAA	annee					CNRS		FILTRER LES TEXTES	all
+23-02-2024	11:02:16	/~perlicv/classificateur.php	78.241.108.10		JJ/MM/AAAA	JJ/MM/AAAA	annee					CNRS		FILTRER LES TEXTES	all
+23-02-2024	11:09:13	/~perlicv/index.php	78.241.108.10		
+23-02-2024	11:09:29	/~perlicv/index.php	78.241.108.10		JJ/MM/AAAA	JJ/MM/AAAA	annee					CNRS, C.N.R.S.		FILTRER LES TEXTES	
+23-02-2024	11:09:33	/~perlicv/loaddelibs.php	78.241.108.10		JJ/MM/AAAA	JJ/MM/AAAA	annee					CNRS, C.N.R.S.		FILTRER LES TEXTES	all
+23-02-2024	11:09:51	/~perlicv/index.php	78.241.108.10		
+23-02-2024	11:09:57	/~perlicv/index.php	78.241.108.10		JJ/MM/AAAA	JJ/MM/AAAA	annee					CNRS, C.N.R.S.		FILTRER LES TEXTES	
+23-02-2024	11:09:58	/~perlicv/loaddelibs.php	78.241.108.10		JJ/MM/AAAA	JJ/MM/AAAA	annee					CNRS, C.N.R.S.		FILTRER LES TEXTES	all
+23-02-2024	11:11:23	/~perlicv/index.php	78.241.108.10		JJ/MM/AAAA	JJ/MM/AAAA	annee					CNRS AND C.N.R.S.		FILTRER LES TEXTES	
+23-02-2024	11:11:25	/~perlicv/loaddelibs.php	78.241.108.10		JJ/MM/AAAA	JJ/MM/AAAA	annee					CNRS AND C.N.R.S.		FILTRER LES TEXTES	all
+23-02-2024	11:11:40	/~perlicv/index.php	78.241.108.10		JJ/MM/AAAA	JJ/MM/AAAA	annee					CNRS OR C.N.R.S.		FILTRER LES TEXTES	
+23-02-2024	11:11:43	/~perlicv/loaddelibs.php	78.241.108.10		JJ/MM/AAAA	JJ/MM/AAAA	annee					CNRS OR C.N.R.S.		FILTRER LES TEXTES	all
+23-02-2024	11:11:54	/~perlicv/index.php	78.241.108.10		JJ/MM/AAAA	JJ/MM/AAAA	annee					CNRS		FILTRER LES TEXTES	
+23-02-2024	11:11:56	/~perlicv/loaddelibs.php	78.241.108.10		JJ/MM/AAAA	JJ/MM/AAAA	annee					CNRS		FILTRER LES TEXTES	all
+23-02-2024	11:12:08	/~perlicv/index.php	78.241.108.10		JJ/MM/AAAA	JJ/MM/AAAA	annee					C.N.R.S 		FILTRER LES TEXTES	
+23-02-2024	11:12:10	/~perlicv/loaddelibs.php	78.241.108.10		JJ/MM/AAAA	JJ/MM/AAAA	annee					C.N.R.S 		FILTRER LES TEXTES	all
+23-02-2024	11:18:49	/~perlicv/index.php	147.171.173.90		
+23-02-2024	11:21:10	/~perlicv/index.php	147.171.173.90		
+23-02-2024	11:32:15	/~perlicv/index.php	35.196.132.85		
+23-02-2024	11:32:25	/~perlicv/index.php	147.171.173.90		JJ/MM/AAAA	JJ/MM/AAAA	annee	cnrs						FILTRER LES TEXTES	
+23-02-2024	11:32:29	/~perlicv/index.php	147.171.173.124		
+23-02-2024	11:32:35	/~perlicv/loaddelibs.php	147.171.173.90		JJ/MM/AAAA	JJ/MM/AAAA	annee	cnrs						FILTRER LES TEXTES	all
+23-02-2024	11:32:42	/~perlicv/wordcloud.php	147.171.173.90		JJ/MM/AAAA	JJ/MM/AAAA	annee	cnrs						FILTRER LES TEXTES	all
+23-02-2024	11:32:48	/~perlicv/loaddelibs.php	147.171.173.90		JJ/MM/AAAA	JJ/MM/AAAA	annee	cnrs						FILTRER LES TEXTES	all
+23-02-2024	11:32:50	/~perlicv/classificateur.php	147.171.173.90		JJ/MM/AAAA	JJ/MM/AAAA	annee	cnrs						FILTRER LES TEXTES	all
+23-02-2024	11:33:40	/~perlicv/index.php	147.171.173.124	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	
+23-02-2024	11:33:41	/~perlicv/loaddelibs.php	147.171.173.124	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	all
+23-02-2024	11:33:42	/~perlicv/index.php	147.171.173.90		JJ/MM/AAAA	JJ/MM/AAAA	annee	cnrs						FILTRER LES TEXTES	
+23-02-2024	11:33:42	/~perlicv/classificateur.php	147.171.173.124	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	all
+23-02-2024	11:37:48	/~perlicv/index.php	147.171.173.90		JJ/MM/AAAA	JJ/MM/AAAA	annee	cnrs						FILTRER LES TEXTES	
+23-02-2024	11:37:53	/~perlicv/index.php	147.171.173.90		JJ/MM/AAAA	JJ/MM/AAAA	annee	cnrs						FILTRER LES TEXTES	
+23-02-2024	11:38:27	/~perlicv/loaddelibs.php	147.171.173.90		JJ/MM/AAAA	JJ/MM/AAAA	annee	cnrs						FILTRER LES TEXTES	all
+23-02-2024	11:38:29	/~perlicv/classificateur.php	147.171.173.90		JJ/MM/AAAA	JJ/MM/AAAA	annee	cnrs						FILTRER LES TEXTES	all
+23-02-2024	11:38:31	/~perlicv/classify_helper.php	147.171.173.90		JJ/MM/AAAA	JJ/MM/AAAA	annee	cnrs						FILTRER LES TEXTES	profile	all
+23-02-2024	11:38:32	/~perlicv/classify_helper.php	147.171.173.90		JJ/MM/AAAA	JJ/MM/AAAA	annee	cnrs						FILTRER LES TEXTES	contact	all
+23-02-2024	11:38:34	/~perlicv/classify_helper.php	147.171.173.90		JJ/MM/AAAA	JJ/MM/AAAA	annee	cnrs						FILTRER LES TEXTES	neutre	all
+23-02-2024	11:38:35	/~perlicv/classify_helper.php	147.171.173.90		JJ/MM/AAAA	JJ/MM/AAAA	annee	cnrs						FILTRER LES TEXTES	profile	all
+23-02-2024	11:38:36	/~perlicv/classify_helper.php	147.171.173.90		JJ/MM/AAAA	JJ/MM/AAAA	annee	cnrs						FILTRER LES TEXTES	profile	all
+23-02-2024	11:39:16	/~perlicv/index.php	147.171.173.90		JJ/MM/AAAA	JJ/MM/AAAA	annee	cnrs						FILTRER LES TEXTES	
+23-02-2024	11:39:30	/~perlicv/index.php	147.171.173.90		
+23-02-2024	11:39:36	/~perlicv/index.php	147.171.173.124		
+23-02-2024	11:40:59	/~perlicv/index.php	147.171.173.124		
+23-02-2024	11:42:22	/~perlicv/index.php	147.171.173.90		
+23-02-2024	11:42:43	/~perlicv/index.php	147.171.173.90		
+23-02-2024	11:43:29	/~perlicv/index.php	147.171.173.90		
+23-02-2024	11:44:35	/~perlicv/index.php	147.171.173.124		
+23-02-2024	11:44:41	/~perlicv/index.php	147.171.173.124	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	
+23-02-2024	11:44:45	/~perlicv/index.php	147.171.173.124	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	
+23-02-2024	11:44:46	/~perlicv/loaddelibs.php	147.171.173.124	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	all
+23-02-2024	11:44:48	/~perlicv/classificateur.php	147.171.173.124	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	all
+23-02-2024	11:44:50	/~perlicv/classify_helper.php	147.171.173.124	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	contact	all
+23-02-2024	11:44:51	/~perlicv/classify_helper.php	147.171.173.124	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	neutre	all
+23-02-2024	11:44:57	/~perlicv/loaddelibs.php	147.171.173.124	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	all
+23-02-2024	11:44:59	/~perlicv/wordcloud.php	147.171.173.124	Autre décision		JJ/MM/AAAA	JJ/MM/AAAA	annee							FILTRER LES TEXTES	all
+23-02-2024	11:51:54	/~perlicv/index.php	147.171.173.124	
+23-02-2024	12:04:29	/~perlicv/index.php	147.171.173.90		
