@@ -2,6 +2,7 @@
 développée pour répondre aux besoins des experts en protection des données en matière de recherche et de filtrage des délibérations de la CNIL.
 
 La plateforme est hébergée sur <a href="http://i3l.univ-grenoble-alpes.fr/~perlicv/">le serveur i3l.</a>
+Le design de la plateforme est choisi par le client (DPO Adjointe @ Inria).
 
 Le rapport du projet est <a href="/Rapport%20du%20projet.pdf">ici.</a>
 
